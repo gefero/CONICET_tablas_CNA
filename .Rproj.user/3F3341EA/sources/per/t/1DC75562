@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627047290552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1321963284",
+    "id" : "1DC75562",
+    "lastKnownWriteTime" : 1627047529,
+    "last_content_update" : 1627047529291,
+    "path" : "/media/grosati/Elements/PEN/Datasets_ML/CONICET_tablas_CNA/example/00_example_proc_eaps_CNA18.R",
+    "project_path" : "example/00_example_proc_eaps_CNA18.R",
+    "properties" : {
+        "cursorPosition" : "84,13",
+        "scrollLine" : "71"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

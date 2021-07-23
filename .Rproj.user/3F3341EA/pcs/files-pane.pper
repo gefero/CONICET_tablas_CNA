@@ -1,0 +1,9 @@
+{
+    "path" : "/media/grosati/Elements/PEN/Datasets_ML/CONICET_tablas_CNA/example",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
