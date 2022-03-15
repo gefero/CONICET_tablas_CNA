@@ -1,0 +1,162 @@
+grupo_cultivo,cultivo,has,prop
+Bosques y montes implantados,Pino,9735,0.5154338963308096
+Bosques y montes implantados,Eucalipto,6983,0.36972520781489915
+Bosques y montes implantados,Araucaria,497,0.026314396145496903
+Bosques y montes implantados,Álamo,490,0.025943770847673003
+Bosques y montes implantados,Paraíso,376,0.019907873140255203
+Bosques y montes implantados,Kiri,305,0.0161486736908985
+Bosques y montes implantados,Cedro,157,0.0083125959654789
+Bosques y montes implantados,Sauce,117,0.006194737120770901
+Bosques y montes implantados,Otros (2),92,0.0048710753428284
+Bosques y montes implantados,Toona,49,0.0025943770847673
+Bosques y montes implantados,Grevillea,45,0.0023825912002965
+Bosques y montes implantados,Otras forestales nativas,19,0.0010059829512363001
+Bosques y montes implantados,Algarrobo,10,5.294647111770001e-4
+Bosques y montes implantados,Sauce álamo,9,4.7651824005930007e-4
+Bosques y montes implantados,Otras forestales,3,1.5883941335310001e-4
+Cereales,Maís para grano,6129654.2,0.5412419715733571
+Cereales,Trigo pan,3788254,0.33449881459555353
+Cereales,Cebada cervecera,566697.6,0.05003879767147217
+Cereales,Sorjo granífero,176718.2,0.015604029829430642
+Cereales,Cebada forrajera para grano,172640.6,0.015243982069593306
+Cereales,Arroz,164671.4,0.014540310152854119
+Cereales,Trigo candeal,164008.5,0.014481776785187804
+Cereales,Avena para grano,72479.9,0.006399898378515342
+Cereales,Maíz pisingallo,42163.2,0.003722965888653517
+Cereales,Centeno para grano,26183.5,0.0023119753089319447
+Cereales,Alpiste,10988.1,9.702375882550119e-4
+Cereales,Maíz incaico,3928.4,3.4687355791274095e-4
+Cereales,Sin discriminar,3186,2.813204244756116e-4
+Cereales,Mijo para grano,2760.8,2.4377571496932471e-4
+Cereales,Quinua,764.3,6.748688023437223e-5
+Cereales,Amaranto,42.5,3.7527049718184223e-6
+Cereales,Alforfón,23,2.030875631807617e-6
+Cultivos industriales,Caña de azúcar,378660.7,0.42692653823942794
+Cultivos industriales,Algodón,246066.2,0.2774309320817574
+Cultivos industriales,Yerba mate,146722.2,0.1654240879205922
+Cultivos industriales,Tabaco,68645.9,0.07739582283381914
+Cultivos industriales,Té,29039.5,0.03274100852611287
+Cultivos industriales,Mandioca,14227.8,0.01604134097032761
+Cultivos industriales,Jojoba,2337,0.0026348847922838124
+Cultivos industriales,Maíz de guinea,779,8.782949307612708e-4
+Cultivos industriales,Esponja vegetal,215,2.4240489103167294e-4
+Cultivos industriales,Caña de castilla,103.1,1.1624160123425805e-4
+Cultivos industriales,Lúpulo,70,7.892252266147492e-5
+Cultivos industriales,Mimbre,55.3,6.234879290256517e-5
+Cultivos industriales,Caña de bambú,22.1,2.491696786883708e-5
+Cultivos industriales,Café,2,2.254929218899283e-6
+Cultivos industriales,Formio,0,0
+Cultivos industriales,Sin discriminar,0,0
+Cultivos industriales,Totora,0,0
+Forrajeras anuales,Avena,1212678.1,0.3290564805923178
+Forrajeras anuales,Maíz forrajero,884576.6,0.24002714554696622
+Forrajeras anuales,Sorgo forrajero,629593.9,0.1708383724719624
+Forrajeras anuales,Centeno forrajero,252198.4,0.06843326181532725
+Forrajeras anuales,Raigrás anual,192155.2,0.05214072377452264
+Forrajeras anuales,Cebada forrajera,136296.6,0.03698366410071964
+Forrajeras anuales,Triticale,67870.1,0.018416343334186267
+Forrajeras anuales,Sorgo granífero para forraje,58791.3,0.015952838818023625
+Forrajeras anuales,Moha,58134.9,0.015774726692587535
+Forrajeras anuales,Vicia,52177.8,0.014158285890583693
+Forrajeras anuales,Melilotus,46829.2,0.012706959696026313
+Forrajeras anuales,Soja para pastoreo,31778.3,0.00862294417389648
+Forrajeras anuales,Cebadilla,24530.6,0.0066563030228862135
+Forrajeras anuales,Otras forrajeras anuales,15363.3,0.0041687843033398194
+Forrajeras anuales,Pasto romano,14025.2,0.00380569497511613
+Forrajeras anuales,Mijo forrajero,7722.5,0.0020954766737967595
+Forrajeras anuales,Sin discriminar,568,1.5412505674542693e-4
+Forrajeras anuales,Caupí,29,7.869060995805248e-6
+Forrajeras perennes,Alfalfa pura,1021909.5,0.27183180239727406
+Forrajeras perennes,Otras Forrajeras perennes consociadas,544686.8,0.14488875442101629
+Forrajeras perennes,Gatton panic,536747.9,0.1427769769142491
+Forrajeras perennes,Alfalfa consociada,510802.8,0.13587548192239557
+Forrajeras perennes,Pasto llorón,266853,0.07098390998921116
+Forrajeras perennes,Agropiro,164030.3,0.04363268185369212
+Forrajeras perennes,Festuca,128549.3,0.034194601298752875
+Forrajeras perennes,Grama rhodes,103651.4,0.027571665478206057
+Forrajeras perennes,Buffel grass,99035,0.026343685571387717
+Forrajeras perennes,Raigrás perenne,66057.2,0.017571465709358032
+Forrajeras perennes,Brachiaria,41691.1,0.011089990705561492
+Forrajeras perennes,Lotus,40697.4,0.010825662737143379
+Forrajeras perennes,Digitaria,40132,0.010675264192971493
+Forrajeras perennes,Trébol blanco,35719.2,0.009501442658267401
+Forrajeras perennes,Pasto estrella,31424.3,0.00835898297067662
+Forrajeras perennes,Pasto ovillo,22191.9,0.005903129558556865
+Forrajeras perennes,Panicum coloratum,17977,0.004781950174350856
+Forrajeras perennes,Trébol rojo,16878.9,0.004489851410015612
+Forrajeras perennes,Dicantium,11344.3,0.0030176268210985375
+Forrajeras perennes,Sin discriminar,9547,0.002539538205180376
+Forrajeras perennes,Paspalum,8622.7,0.0022936708999485526
+Forrajeras perennes,Trébol otras especies,8417.1,0.002238980520249685
+Forrajeras perennes,Setaria,8404.1,0.0022355224709496597
+Forrajeras perennes,Otras forrajeras perennes puras,7902,0.0021019619668309762
+Forrajeras perennes,Pasto elefante,5684,0.0015119655554881384
+Forrajeras perennes,Pasto pangola,3320.6,8.832921927434751e-4
+Forrajeras perennes,Sorgo negro,3225,8.57862230198671e-4
+Forrajeras perennes,Falaris,1507.9,4.0110711842374455e-4
+Forrajeras perennes,Leucaena,1214,3.2292860386393384e-4
+Forrajeras perennes,Achicoria,1116.7,2.9704643487220343e-4
+Forrajeras perennes,Topinambur,4.5,1.1970170653934946e-6
+Frutales,Vid,181575.6,0.37005954560934434
+Frutales,Limonero,58235.3,0.11868625881684462
+Frutales,Olivo para aceite,52506.700000000004,0.1070111047048511
+Frutales,Naranjo,37172.4,0.07575908576487586
+Frutales,Olivo para conserva,24661.3,0.05026088016306003
+Frutales,Mandarino,21216.600000000002,0.043240420824027105
+Frutales,Peral,20188.1,0.04114428983143112
+Frutales,Manzano,19073.2,0.0388720716071771
+Frutales,Nogal,16021.1,0.03265174938792364
+Frutales,Ciruelo industria,12940.9,0.026374158057448048
+Frutales,Duraznero industria,9834,0.020042150881078143
+Frutales,Duraznero/Melocotón,7725,0.015743910469425325
+Frutales,Ciruelo fresco,3817.5,0.007780243134890768
+Frutales,Almendro,3326.3,0.006779154614168215
+Frutales,Pecán,3166.3,0.006453067148134811
+Frutales,Pomelo,3045.4,0.006206667306613319
+Frutales,Arándano,2713.5,0.005530239619260274
+Frutales,Banano,2662,0.005425280216130772
+Frutales,Membrillo,2340.2999999999997,0.004769640604737357
+Frutales,Cerezo,1814.2,0.003697424255486269
+Frutales,Damasco,1373.6,0.00279946089589678
+Frutales,Pistacho,1269.8999999999999,0.0025881154569738795
+Frutales,Pelón,503.1,0.0010253412760087871
+Frutales,Palto,500.3,0.0010196347453532027
+Frutales,Tuna,482.7,9.83765124089528e-4
+Frutales,Avellano,459.7,9.368900508472261e-4
+Frutales,Papayo,374.20000000000005,7.626370611856255e-4
+Frutales,Kiwi,354.3,7.220799325977208e-4
+Frutales,Sin discriminar,304.7,6.209928181273652e-4
+Frutales,Mango,279,5.686150188957496e-4
+Frutales,Frambuesa,198.5,4.045522625476928e-4
+Frutales,Higuera,171.2,3.489135886557431e-4
+Frutales,Guindo,82.7,1.685464590060161e-4
+Frutales,Lima,64.4,1.3125020507844543e-4
+Frutales,Ananá,63.5,1.2941596308200753e-4
+Frutales,Corinto grosella,38,7.744577318293364e-5
+Frutales,Mora,33.2,6.76631492019315e-5
+Frutales,Grosella,24.4,4.972833857009423e-5
+Frutales,Cassis,23.4,4.769029190738545e-5
+Frutales,Castaño,19.6,3.9945714589092087e-5
+Frutales,Quinoto,8,1.630437330167024e-5
+Frutales,Palmera datilera,1.3,2.649460661521414e-6
+Frutales,Chirimoyo,0.5,1.01902333135439e-6
+Legumbres,Poroto negro,115456.7,0.3188613567985471
+Legumbres,Garbanzo,99369,0.2744313163611538
+Legumbres,Poroto blanco,77785,0.2148219257832156
+Legumbres,Arveja,35378.9,0.09770731413629628
+Legumbres,Lenteja,15242.5,0.04209581800797922
+Legumbres,Poroto colorado,13983.6,0.03861906384755639
+Legumbres,Poroto carioca,2675.4,0.0073887585040871
+Legumbres,Sin discriminar,2198.5,0.006071684821423147
+Legumbres,Lupino,1,2.7617397413796438e-6
+Oleaginosas,Soja,12760486.7,0.8851192593404769
+Oleaginosas,Girasol,1135161,0.0787393840982723
+Oleaginosas,Maní,410080.3,0.028444837562984222
+Oleaginosas,Maní confitería,58755.4,0.004075513524907593
+Oleaginosas,Girasol confitería,17594.9,0.0012204538292547853
+Oleaginosas,Chía,12819.5,8.892126618583635e-4
+Oleaginosas,Colza,11129.8,7.720081971957731e-4
+Oleaginosas,Cártamo,5852,4.0591852234448636e-4
+Oleaginosas,Lino,3170,2.198840936144945e-4
+Oleaginosas,Sin discriminar,1504,1.043235573489589e-4
+Oleaginosas,Tung,132.7,9.204611742158806e-6
