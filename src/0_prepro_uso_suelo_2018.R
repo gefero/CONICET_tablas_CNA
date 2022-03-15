@@ -2,7 +2,6 @@ library(tidyverse)
 
 uso_2018 <- read_csv('./data/raw/2018_uso_suelo_total.csv')
 
-## Limpio campo Cens
 
 ## Limpio campo Indicador
 x <- str_split_fixed(uso_2018$Indicador, ' \\| ', n=3) 
@@ -31,7 +30,7 @@ uso_2018 <- uso_2018 %>%
 
 uso_2018 <- uso_2018 %>%
         janitor::clean_names() %>%
-        select(censo, link, provincia, departamento, unidad_de_registro, grupo_cultivo, periodo_ocupacion, cultivo, cuadro, indicador, valor)
+        select(censo, cuadro, indicador, link, provincia, departamento, unidad_de_registro, grupo_cultivo, periodo_ocupacion, cultivo, valor)
 
 
 ## Eliminar lo que contiene totales...
