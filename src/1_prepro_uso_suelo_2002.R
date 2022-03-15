@@ -27,10 +27,12 @@ uso_2002 <- uso_2002 %>%
 
 uso_2002 <- uso_2002 %>%
         janitor::clean_names() %>%
-        select(censo, link, cuadro, indicador, provincia, departamento, unidad_de_registro, grupo_cultivo, periodo, cultivo, valor)
+        select(censo, cuadro, indicador, link, provincia, departamento, unidad_de_registro, grupo_cultivo, periodo, cultivo, valor)
 
 totales <- uso_2002 %>%
         filter(grepl(c('Total'), indicador))
 
 uso_2002_limpio <- uso_2002 %>%
         filter(!grepl(c('Total'), indicador))
+
+write_csv(uso_2002_limpio, './data/proc/uso_suelo_2002.csv')
