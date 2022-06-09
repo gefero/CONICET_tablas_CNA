@@ -6,7 +6,6 @@ coef2018 <- googlesheets4::read_sheet('https://docs.google.com/spreadsheets/d/1i
                                   sheet = 'final_2018') %>%
         select(-cultivo) %>% 
         rename(cultivo = cultivo_arm_cna18)
-
 uso2018 <- read_csv('./data/proc/uso_suelo_2018.csv')
 
 
