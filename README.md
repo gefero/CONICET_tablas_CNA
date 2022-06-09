@@ -1,3 +1,5 @@
-# Tablas CNA
-
-- [Listado de tablas y output de ejemplo](https://docs.google.com/spreadsheets/d/1ia9vCkgZBFk5dr_AXMJwsQ3EXVGge_GpM_TcO6N6YIE/edit?usp=sharing)
+# Datos de Censos Nacionales Agropecuarios
+## Uso del suelo
+- [CNA 2002 - con coeficientes técnicos de demanda laboral](./data/proc/uso_suelo_2002_con_coeficientes.csv')
+- [CNA 2018 - con coeficientes técnicos](./data/proc/uso_suelo_2018_con_coeficientes.csv')
+- [Archivo apilado CNA 2002/2018 - con coeficientes técnicos](./data/proc/uso_suelo_2002_2018_coefs.csv')
