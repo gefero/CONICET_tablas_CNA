@@ -1,7 +1,17 @@
 library(tidyverse)
 
 uso_2018 <- read_csv('./data/raw/2018_uso_suelo_total.csv')
+bosques_2018 <- read_csv('./data/raw/2018_bosques_sup.csv') %>%
+        select(-`...1`)
 
+bosques_2018 <- bosques_2018 %>%
+        select(Censo, Cuadro, Provincia, Departamento, Link, `Unidad de registro`, Indicador, Valor)
+
+uso_2018 <- uso_2018 %>%
+        bind_rows(bosques_2018)
+
+uso_2018 <- uso_2018 %>%
+        filter(`Unidad de registro` == 'Hectáreas')
 
 ## Limpio campo Indicador
 x <- str_split_fixed(uso_2018$Indicador, ' \\| ', n=3) 

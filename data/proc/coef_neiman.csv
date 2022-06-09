@@ -1,0 +1,26 @@
+grupo_cultivo,cultivo,cultivo_arm_cna18,demanda,demanda_agg
+Frutal,Uva,Vid,"91,575",Alta
+Industrial,Tabaco,Tabaco,"138,47",Alta
+Industrial,Yerba mate,Yerba mate,"5,805333333",Media
+Forestación,Forestación,Bosques y montes implantados,,Alta
+Hortalizas,Ajo,,"135,7",Alta
+Frutal,Manzana,Manzano,"129,21",Alta
+Frutal,Pera,Peral,"128,28",Alta
+Frutal,Olivo,Olivo para aceite,"74,96",Media
+Frutal,Olivo,Olivo para conserva,"74,96",Media
+Frutal,Limón,Limonero,62,Media
+Frutal,Citricultura,Mandarino,"40,93",Media
+Frutal,Citricultura,Naranjo,"40,93",Media
+Industrial,Caña de azúcar,Caña de azúcar,"24,98",Media
+Industrial,Algodón ,Algodón,"17,735",Media
+Cereales,Arroz,Arroz,"1,1",Baja
+Oleaginosas,Soja de 2da.,Soja,"0,3",Baja
+Oleaginosas,Soja de 1ra.,Soja,"0,3",Baja
+Cereales,Maíz,Maís para grano,"0,265",Baja
+Cereales,Maíz,Maíz incaico,"0,265",Baja
+Cereales,Maíz,Maíz pisingallo,"0,265",Baja
+Cereales,Trigo,Trigo candeal,"0,3",Baja
+Cereales,Trigo,Trigo pan,"0,3",Baja
+Cereales,Maíz,Maíz forrajero,"0,265",Baja
+Oleaginosas,Soja de 1ra.,Soja para pastoreo,"0,3",Baja
+Forrajeras,,,"69,25",Media

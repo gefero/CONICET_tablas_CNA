@@ -1,7 +1,5 @@
 library(tidyverse)
 
-
-
 uso_2002<-list.files('./data/raw/2002_uso_suelo/', '*.csv', full.names = TRUE) %>% 
         map_df(~read_csv(., col_types = cols(
                 Censo = col_double(),
@@ -15,9 +13,20 @@ uso_2002<-list.files('./data/raw/2002_uso_suelo/', '*.csv', full.names = TRUE) %
         )))
 
 ## Limpio campo Indicador
+
+uso_2002 <- uso_2002 %>%
+        mutate(Indicador = case_when(
+                grepl(c('Bosques y montes'), Cuadro)  ~ paste0('Perenne | ',Indicador),
+                grepl(c('Forrajeras perennes'), Cuadro)  ~ paste0('Perenne | ',Indicador),
+                grepl(c('Frutales'), Cuadro)  ~ paste0('Perenne | ',Indicador),
+                TRUE ~ Indicador
+        ))
+
+
 x <- str_split_fixed(uso_2002$Indicador, ' \\| ', n=2)
 colnames(x) <- c('periodo',  'cultivo')
 x <- as_tibble(x)
+
 
 uso_2002 <- uso_2002 %>%
         bind_cols(x)
@@ -35,4 +44,29 @@ totales <- uso_2002 %>%
 uso_2002_limpio <- uso_2002 %>%
         filter(!grepl(c('Total'), indicador))
 
+
+uso_2002_limpio <- uso_2002_limpio %>%
+        mutate(grupo_cultivo = case_when(
+                grupo_cultivo=='EAP con límites definidos' ~ 'Frutales',
+                TRUE ~ grupo_cultivo
+        ))
+
+
+uso_2002_limpio <- uso_2002_limpio %>%
+        mutate(
+               periodo = case_when(
+                       grupo_cultivo=='Bosques y Montes implantados' & cultivo  == '' ~ 'Perenne',
+                       TRUE ~ periodo),
+               
+               cultivo = case_when(
+                       grupo_cultivo=='Bosques y Montes implantados' & cultivo  == '' ~ periodo,
+                       TRUE ~ cultivo
+               )
+        )
+
 write_csv(uso_2002_limpio, './data/proc/uso_suelo_2002.csv')
+
+uso_2002_limpio %>%
+        select(grupo_cultivo, periodo, cultivo) %>%
+        distinct() %>%
+        write_csv('./data/outputs/listado_cultivos2002.csv')

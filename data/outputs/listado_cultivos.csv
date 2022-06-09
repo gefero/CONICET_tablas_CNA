@@ -1,19 +1,26 @@
 grupo_cultivo,cultivo,has,prop
-Bosques y montes implantados,Pino,9735,0.5154338963308096
-Bosques y montes implantados,Eucalipto,6983,0.36972520781489915
-Bosques y montes implantados,Araucaria,497,0.026314396145496903
-Bosques y montes implantados,Álamo,490,0.025943770847673003
-Bosques y montes implantados,Paraíso,376,0.019907873140255203
-Bosques y montes implantados,Kiri,305,0.0161486736908985
-Bosques y montes implantados,Cedro,157,0.0083125959654789
-Bosques y montes implantados,Sauce,117,0.006194737120770901
-Bosques y montes implantados,Otros (2),92,0.0048710753428284
-Bosques y montes implantados,Toona,49,0.0025943770847673
-Bosques y montes implantados,Grevillea,45,0.0023825912002965
-Bosques y montes implantados,Otras forestales nativas,19,0.0010059829512363001
-Bosques y montes implantados,Algarrobo,10,5.294647111770001e-4
-Bosques y montes implantados,Sauce álamo,9,4.7651824005930007e-4
-Bosques y montes implantados,Otras forestales,3,1.5883941335310001e-4
+Bosques y montes implantados,Pino,596024,0.6418058742470795
+Bosques y montes implantados,Eucalipto,245843.7,0.2647274787703796
+Bosques y montes implantados,Álamo,23527.7,0.025334912801368757
+Bosques y montes implantados,Algarrobo,15428,0.01661305757466804
+Bosques y montes implantados,Araucaria,10977,0.011820166774509403
+Bosques y montes implantados,Sauce,10801.8,0.011631509288958336
+Bosques y montes implantados,Otras forestales,9041.8,0.009736319936390554
+Bosques y montes implantados,Otras forestales nativas,2728.6,0.002938189583759347
+Bosques y montes implantados,Paraíso,2410,0.0025951172384592928
+Bosques y montes implantados,Pino oregon,2365.9,0.0025476298234318843
+Bosques y montes implantados,Grevillea,2271.3,0.002445763395731366
+Bosques y montes implantados,Kiri,1833.2,0.001974012000640488
+Bosques y montes implantados,Toona,1382.4,0.001488585091471422
+Bosques y montes implantados,Cedro,1262.4,0.0013593676356145276
+Bosques y montes implantados,Lenga,1213,0.0013061731162867728
+Bosques y montes implantados,Sauce álamo,1040.6,0.0011205307047057014
+Bosques y montes implantados,Lapacho,293.1,3.1561363593046423e-4
+Bosques y montes implantados,Quebracho,178.1,1.917802407342739e-4
+Bosques y montes implantados,Peteribí,33,3.553480036064592e-5
+Bosques y montes implantados,Pehuén,6,6.460872792844713e-6
+Bosques y montes implantados,Tipa,4,4.307248528563142e-6
+Bosques y montes implantados,Guatambú,1.5,1.6152181982111782e-6
 Cereales,Maís para grano,6129654.2,0.5412419715733571
 Cereales,Trigo pan,3788254,0.33449881459555353
 Cereales,Cebada cervecera,566697.6,0.05003879767147217
