@@ -14,7 +14,7 @@
 - `provincia`: etiqueta de provincia
 - `departamento`: etiqueta de departamento
 - `unidad_de_registro`: unidad en la que se encuentra medida la información (en el caso de esta tabla, siempre son hectáreas)
-- `grupo_cultivo`: gran grupo de cultivos (cerales, oleaginosas, etc.)
+- `grupo_cultivo`: gran grupo de cultivos (cereales, oleaginosas, etc.)
 - `periodo`: momento de ocupación/implantación del cultivo mencionado (primera, segunda, perenne, etc.)
 - `cultivo`: etiqueta específica de cada cultivo (soja, maíz, etc.); esta variable se halla aún en _proceso de normalización_
 - `valor`: la cantidad de unidades (en este caso, hectáreas) para esta fila
