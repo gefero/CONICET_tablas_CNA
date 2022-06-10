@@ -21,6 +21,9 @@
 - `demanda`: cantidad de jornales/hectárea/año estimados
 - `demanda_agg`: niveles de demanda de fuerza de trabajo construidos sobre `demanda` (bajo, medio, alto)
 
+### Documento metodológico
+- [Metodología para la estimación de la superficie sembrada según demanda de trabajo](https://docs.google.com/document/d/1oqwe1_WpLphaot4TyfBI8AqXgyOzjXN0DN6cp8Bwuls/edit?usp=sharing)
+
 ### Scripts en R para replicar la construcción de las tablas
 - [Limpieza de datos crudos 2002](./src/0_uso_suelo_2002_prepro.R)
 - [Limpieza de datos crudos 2018](./src/1_uso_suelo_2018_prepro.R)
