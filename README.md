@@ -22,6 +22,6 @@
 - `demanda_agg`: niveles de demanda de fuerza de trabajo construidos sobre `demanda` (bajo, medio, alto)
 
 ### Scripts en R para replicar la construcción de las tablas
-- [Limpieza de datos crudos 2002](./src/0_prepro_uso_suelo_2002.R)
-- [Limpieza de datos crudos 2018](./src/1_prepro_uso_suelo_2018.R)
-- [Agregado de coeficientes técnicos de demanda laboral](./src/2_agregado_coeficientes.R)
+- [Limpieza de datos crudos 2002](./src/0_uso_suelo_2002_prepro.R)
+- [Limpieza de datos crudos 2018](./src/1_uso_suelo_2018_prepro.R)
+- [Agregado de coeficientes técnicos de demanda laboral](./src/2_uso_suelo_agregado_coeficientes.R)
