@@ -1,8 +1,9 @@
 library(tidyverse)
+library(patchwork)
 uso2002 <- read_csv('./data/proc/uso_suelo_2002_con_coeficientes.csv')
 uso2018 <- read_csv('./data/proc/uso_suelo_2018_con_coeficientes.csv')
 
-uso2002 %>%
+(uso2002 %>%
         group_by(provincia, demanda_agg) %>%
         summarise(has = sum(valor)) %>%
         ungroup() %>%
@@ -19,10 +20,9 @@ uso2002 %>%
                         x='Provincia',
                      y='% de sup. sin datos') +
                 scale_y_continuous(labels=scales::percent, limits=c(0,0.1)) +
-                theme_minimal() 
+                theme_minimal() ) +
 
-
-uso2018 %>%
+(uso2018 %>%
         group_by(provincia, demanda_agg) %>%
         summarise(has = sum(valor)) %>%
         ungroup() %>%
@@ -40,6 +40,7 @@ uso2018 %>%
                         y='% de sup. sin datos') +
         scale_y_continuous(labels=scales::percent, limits=c(0,0.1)) +
                 theme_minimal() 
+)
 
 
 sin_datos2002 <- uso2002 %>%
