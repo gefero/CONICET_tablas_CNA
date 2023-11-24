@@ -28,3 +28,23 @@
 - [Limpieza de datos crudos 2002](./src/0_uso_suelo_2002_prepro.R)
 - [Limpieza de datos crudos 2018](./src/1_uso_suelo_2018_prepro.R)
 - [Agregado de coeficientes técnicos de demanda laboral](./src/2_uso_suelo_agregado_coeficientes.R)
+
+## EAPs y superficie por estrato de tamaño según departamento
+- [Censo Nacional Agropecuario - 2002](./data/proc/eaps_sup_2002.csv)
+- [Censo Nacional Agropecuario - 2018](./data/proc/eaps_sup_2018.csv)
+
+- `censo`: identifica el relevamiento censal (2002, 2018)
+- `cuadro`: contiene el texto/título completo del cuadro relevado
+- `link`: código de 5 dígitos que identifica la provincia (dígitos 1 y 2) y el departamento (dígitos 3 a 5)
+
+- `provincia`: etiqueta de provincia
+- `departamento`: etiqueta de departamento
+
+- `unidad_de_registro`: unidad en la que se encuentra medida la información (EAPs o hectáreas)
+- `indicador`: Estrato de tamaño crudo
+- `valor`: la cantidad de unidades (EAP's o hectáreas) para esta fila
+- `escala_total`: escala de tamaño normalizada para todo el dataset
+
+### Scripts en R para replicar la construcción de las tablas
+- [Limpieza de datos crudos 2002](./src/5_eaps_2002_prepro.R)
+- [Limpieza de datos crudos 2018](./src/4_eaps_2018_prepro.R)

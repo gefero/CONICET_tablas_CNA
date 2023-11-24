@@ -63,3 +63,4 @@ eaps2018 <- eaps2018 %>%
         )
                )
 
+write_csv(eaps2018, './data/proc/eaps_sup_2018.csv')

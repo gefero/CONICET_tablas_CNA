@@ -1,17 +1,17 @@
 {
-    "path" : "/media/grosati/Elements/PEN/Datasets_ML/CONICET_estr_agr/proc_data/tablas_finales",
-    "sortOrder" : [
+    "path": "/media/grosati/Elements/PEN/Datasets_ML/CONICET_tablas_CNA/src",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         },
         {
-            "ascending" : false,
-            "columnIndex" : 4
+            "columnIndex": 4,
+            "ascending": false
         },
         {
-            "ascending" : true,
-            "columnIndex" : 3
+            "columnIndex": 3,
+            "ascending": true
         }
     ]
 }
