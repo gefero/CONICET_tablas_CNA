@@ -1,0 +1,1023 @@
+link,depto,unidad,total,agro_asal_todo,agro_asal_parte,agro_tcp,agro_patron,no_agro_asal_todo,no_agro_asal_parte,no_agro_tcp,no_agro_patron,sd
+06007,Adolfo Alsina,EAP,115,13,6,35,12,28,1,13,6,1
+06007,Adolfo Alsina,Personas,117,14,6,35,12,29,1,13,6,1
+06014,Adolfo Gonzáles Chaves,EAP,59,4,1,32,5,9,0,7,1,0
+06014,Adolfo Gonzáles Chaves,Personas,60,5,1,32,5,9,0,7,1,0
+06021,Alberti,EAP,48,6,0,20,1,10,0,11,0,0
+06021,Alberti,Personas,48,6,0,20,1,10,0,11,0,0
+06028,Almirante Brown,EAP,6,1,0,3,0,1,0,1,0,0
+06028,Almirante Brown,Personas,6,1,0,3,0,1,0,1,0,0
+06077,Arrecifes,EAP,42,3,1,12,1,14,0,9,1,1
+06077,Arrecifes,Personas,42,3,1,12,1,14,0,9,1,1
+06035,Avellaneda,EAP,0,0,0,0,0,0,0,0,0,0
+06035,Avellaneda,Personas,0,0,0,0,0,0,0,0,0,0
+06042,Ayacucho,EAP,195,33,9,61,6,40,6,31,3,6
+06042,Ayacucho,Personas,199,34,9,62,6,41,6,32,3,6
+06049,Azul,EAP,230,62,12,57,6,56,3,32,1,1
+06049,Azul,Personas,232,62,12,58,6,57,3,32,1,1
+06056,Bahía Blanca,EAP,84,13,3,17,3,17,0,27,1,3
+06056,Bahía Blanca,Personas,85,13,3,17,3,17,0,28,1,3
+06063,Balcarce,EAP,87,17,11,33,3,7,2,12,1,1
+06063,Balcarce,Personas,88,17,11,34,3,7,2,12,1,1
+06070,Baradero,EAP,33,2,0,10,6,4,1,9,1,0
+06070,Baradero,Personas,33,2,0,10,6,4,1,9,1,0
+06084,Benito Juárez,EAP,95,13,4,23,14,16,1,20,4,0
+06084,Benito Juárez,Personas,95,13,4,23,14,16,1,20,4,0
+06091,Berazategui,EAP,4,0,0,0,0,1,0,3,0,0
+06091,Berazategui,Personas,4,0,0,0,0,1,0,3,0,0
+06098,Berisso,EAP,22,4,0,1,0,9,0,8,0,0
+06098,Berisso,Personas,22,4,0,1,0,9,0,8,0,0
+06105,Bolívar,EAP,321,56,17,78,4,65,5,84,11,1
+06105,Bolívar,Personas,321,56,17,78,4,65,5,84,11,1
+06112,Bragado,EAP,85,3,0,46,9,8,0,17,2,0
+06112,Bragado,Personas,86,3,0,47,9,8,0,17,2,0
+06119,Brandsen,EAP,53,3,1,18,0,20,0,10,0,1
+06119,Brandsen,Personas,54,3,1,19,0,20,0,10,0,1
+06126,Campana,EAP,38,10,1,7,0,10,1,7,1,1
+06126,Campana,Personas,40,10,1,7,0,11,1,7,1,2
+06134,Cañuelas,EAP,65,11,1,10,1,16,0,22,3,1
+06134,Cañuelas,Personas,65,11,1,10,1,16,0,22,3,1
+06140,Capitán Sarmiento,EAP,13,3,0,3,3,2,0,0,2,0
+06140,Capitán Sarmiento,Personas,13,3,0,3,3,2,0,0,2,0
+06147,Carlos Casares,EAP,71,6,4,22,3,16,0,17,1,2
+06147,Carlos Casares,Personas,71,6,4,22,3,16,0,17,1,2
+06154,Carlos Tejedor,EAP,77,7,5,25,9,17,1,7,6,0
+06154,Carlos Tejedor,Personas,77,7,5,25,9,17,1,7,6,0
+06161,Carmen de Areco,EAP,14,2,0,2,0,7,0,2,0,1
+06161,Carmen de Areco,Personas,14,2,0,2,0,7,0,2,0,1
+06168,Castelli,EAP,19,1,1,8,1,2,0,5,0,1
+06168,Castelli,Personas,19,1,1,8,1,2,0,5,0,1
+06210,Chacabuco,EAP,93,6,3,47,3,13,0,18,2,1
+06210,Chacabuco,Personas,97,6,3,50,3,14,0,18,2,1
+06218,Chascomús,EAP,146,26,5,33,5,45,0,27,2,3
+06218,Chascomús,Personas,150,28,5,33,5,46,0,28,2,3
+06224,Chivilcoy,EAP,66,12,0,22,1,9,0,21,1,0
+06224,Chivilcoy,Personas,68,13,0,23,1,9,0,21,1,0
+06175,Colón,EAP,70,8,1,29,2,11,2,15,2,0
+06175,Colón,Personas,70,8,1,29,2,11,2,15,2,0
+06182,Coronel de Marina Leonardo Rosales,EAP,42,1,1,5,2,15,1,12,5,0
+06182,Coronel de Marina Leonardo Rosales,Personas,43,1,1,5,2,16,1,12,5,0
+06189,Coronel Dorrego,EAP,92,8,7,36,3,20,0,14,2,2
+06189,Coronel Dorrego,Personas,96,8,7,40,3,20,0,14,2,2
+06196,Coronel Pringles,EAP,59,3,4,24,1,19,0,7,1,0
+06196,Coronel Pringles,Personas,59,3,4,24,1,19,0,7,1,0
+06203,Coronel Suárez,EAP,158,13,4,86,3,16,2,30,1,3
+06203,Coronel Suárez,Personas,160,13,4,88,3,16,2,30,1,3
+06231,Daireaux,EAP,103,13,1,57,2,8,0,18,3,1
+06231,Daireaux,Personas,105,13,1,59,2,8,0,18,3,1
+06238,Dolores,EAP,58,6,0,7,0,28,1,16,0,0
+06238,Dolores,Personas,61,6,0,7,0,30,1,17,0,0
+06245,Ensenada,EAP,7,0,0,0,0,6,0,1,0,0
+06245,Ensenada,Personas,7,0,0,0,0,6,0,1,0,0
+06252,Escobar,EAP,7,2,0,2,0,1,0,2,0,0
+06252,Escobar,Personas,7,2,0,2,0,1,0,2,0,0
+06260,Esteban Echeverría,EAP,11,0,0,1,0,1,0,7,0,2
+06260,Esteban Echeverría,Personas,11,0,0,1,0,1,0,7,0,2
+06266,Exaltación de la Cruz,EAP,28,0,1,6,1,9,1,8,2,0
+06266,Exaltación de la Cruz,Personas,28,0,1,6,1,9,1,8,2,0
+06270,Ezeiza,EAP,1,0,0,0,0,0,0,1,0,0
+06270,Ezeiza,Personas,1,0,0,0,0,0,0,1,0,0
+06274,Florencio Varela,EAP,25,3,1,1,0,4,3,12,1,0
+06274,Florencio Varela,Personas,25,3,1,1,0,4,3,12,1,0
+06277,Florentino Ameghino,EAP,29,7,2,7,1,7,0,4,1,0
+06277,Florentino Ameghino,Personas,30,7,2,7,1,7,0,5,1,0
+06280,General Alvarado,EAP,16,3,0,7,1,2,0,3,0,0
+06280,General Alvarado,Personas,16,3,0,7,1,2,0,3,0,0
+06287,General Alvear,EAP,66,7,0,20,1,18,0,19,0,1
+06287,General Alvear,Personas,66,7,0,20,1,18,0,19,0,1
+06294,General Arenales,EAP,42,8,1,21,0,4,0,7,1,0
+06294,General Arenales,Personas,42,8,1,21,0,4,0,7,1,0
+06301,General Belgrano,EAP,38,7,0,10,0,15,0,3,3,0
+06301,General Belgrano,Personas,38,7,0,10,0,15,0,3,3,0
+06308,General Guido,EAP,82,12,3,17,4,26,1,15,4,0
+06308,General Guido,Personas,84,12,3,17,4,27,1,16,4,0
+06315,General Juan Madariaga,EAP,50,7,1,14,2,15,2,8,1,0
+06315,General Juan Madariaga,Personas,53,7,1,14,2,18,2,8,1,0
+06322,General La Madrid,EAP,117,11,1,44,0,31,0,26,3,1
+06322,General La Madrid,Personas,120,11,1,45,0,32,0,27,3,1
+06329,General Las Heras,EAP,93,20,0,12,2,33,0,20,5,1
+06329,General Las Heras,Personas,95,20,0,12,2,34,0,21,5,1
+06336,General Lavalle,EAP,81,16,0,10,2,25,1,20,6,1
+06336,General Lavalle,Personas,82,16,0,10,2,26,1,20,6,1
+06343,General Paz,EAP,60,10,2,15,0,12,0,20,1,0
+06343,General Paz,Personas,60,10,2,15,0,12,0,20,1,0
+06351,General Pinto,EAP,41,3,0,13,0,8,1,16,0,0
+06351,General Pinto,Personas,44,3,0,13,0,10,1,17,0,0
+06357,General Pueyrredón,EAP,19,2,1,8,1,4,0,3,0,0
+06357,General Pueyrredón,Personas,20,2,1,9,1,4,0,3,0,0
+06364,General Rodríguez,EAP,7,1,1,1,0,1,0,3,0,0
+06364,General Rodríguez,Personas,7,1,1,1,0,1,0,3,0,0
+06371,General San Martín,EAP,0,0,0,0,0,0,0,0,0,0
+06371,General San Martín,Personas,0,0,0,0,0,0,0,0,0,0
+06385,General Viamonte,EAP,65,5,0,30,2,17,2,9,0,0
+06385,General Viamonte,Personas,67,5,0,32,2,17,2,9,0,0
+06392,General Villegas,EAP,107,11,3,33,7,23,3,23,4,0
+06392,General Villegas,Personas,111,12,3,33,7,25,3,24,4,0
+06399,Guaminí,EAP,124,11,1,61,6,15,3,24,2,1
+06399,Guaminí,Personas,126,11,1,61,6,16,3,25,2,1
+06406,Hipólito Yrigoyen,EAP,44,3,0,21,4,5,1,10,0,0
+06406,Hipólito Yrigoyen,Personas,44,3,0,21,4,5,1,10,0,0
+06408,Hurlingham,EAP,0,0,0,0,0,0,0,0,0,0
+06408,Hurlingham,Personas,0,0,0,0,0,0,0,0,0,0
+06410,Ituzaingó,EAP,0,0,0,0,0,0,0,0,0,0
+06410,Ituzaingó,Personas,0,0,0,0,0,0,0,0,0,0
+06412,José C. Paz,EAP,1,0,0,0,0,0,0,0,0,1
+06412,José C. Paz,Personas,1,0,0,0,0,0,0,0,0,1
+06413,Junín,EAP,118,15,8,55,3,26,0,9,2,0
+06413,Junín,Personas,124,15,8,58,3,26,0,12,2,0
+06420,La Costa,EAP,6,2,1,0,0,2,0,1,0,0
+06420,La Costa,Personas,6,2,1,0,0,2,0,1,0,0
+06427,La Matanza,EAP,0,0,0,0,0,0,0,0,0,0
+06427,La Matanza,Personas,0,0,0,0,0,0,0,0,0,0
+06434,Lanús,EAP,0,0,0,0,0,0,0,0,0,0
+06434,Lanús,Personas,0,0,0,0,0,0,0,0,0,0
+06441,La Plata,EAP,74,8,6,21,0,5,3,28,2,1
+06441,La Plata,Personas,74,8,6,21,0,5,3,28,2,1
+06448,Laprida,EAP,79,14,2,24,1,15,1,20,2,0
+06448,Laprida,Personas,79,14,2,24,1,15,1,20,2,0
+06455,Las Flores,EAP,108,17,3,33,2,30,2,14,6,1
+06455,Las Flores,Personas,108,17,3,33,2,30,2,14,6,1
+06462,Leandro N. Alem,EAP,29,1,0,5,2,7,0,10,2,2
+06462,Leandro N. Alem,Personas,30,1,0,5,2,8,0,10,2,2
+06466,Lezama,EAP,84,18,5,19,0,15,2,25,0,0
+06466,Lezama,Personas,84,18,5,19,0,15,2,25,0,0
+06469,Lincoln,EAP,156,29,1,45,7,36,3,27,5,3
+06469,Lincoln,Personas,157,29,1,45,7,36,3,28,5,3
+06476,Lobería,EAP,68,11,6,20,5,9,0,12,4,1
+06476,Lobería,Personas,68,11,6,20,5,9,0,12,4,1
+06483,Lobos,EAP,40,6,0,10,1,10,0,10,3,0
+06483,Lobos,Personas,41,6,0,10,1,11,0,10,3,0
+06490,Lomas de Zamora,EAP,1,1,0,0,0,0,0,0,0,0
+06490,Lomas de Zamora,Personas,1,1,0,0,0,0,0,0,0,0
+06497,Luján,EAP,23,3,0,10,1,3,0,6,0,0
+06497,Luján,Personas,23,3,0,10,1,3,0,6,0,0
+06505,Magdalena,EAP,118,16,6,13,1,51,1,25,5,0
+06505,Magdalena,Personas,118,16,6,13,1,51,1,25,5,0
+06511,Maipú,EAP,57,5,0,17,2,13,1,17,2,0
+06511,Maipú,Personas,57,5,0,17,2,13,1,17,2,0
+06515,Malvinas Argentinas,EAP,4,0,1,1,0,1,0,1,0,0
+06515,Malvinas Argentinas,Personas,4,0,1,1,0,1,0,1,0,0
+06518,Mar Chiquita,EAP,81,10,1,18,8,17,2,17,7,1
+06518,Mar Chiquita,Personas,83,10,1,18,8,19,2,17,7,1
+06525,Marcos Paz,EAP,47,3,2,14,0,2,0,22,1,3
+06525,Marcos Paz,Personas,47,3,2,14,0,2,0,22,1,3
+06532,Mercedes,EAP,64,12,2,24,0,6,0,15,1,4
+06532,Mercedes,Personas,66,12,2,25,0,6,0,16,1,4
+06539,Merlo,EAP,15,1,1,2,1,5,2,3,0,0
+06539,Merlo,Personas,16,1,1,3,1,5,2,3,0,0
+06547,Monte,EAP,50,3,1,15,0,10,1,18,2,0
+06547,Monte,Personas,50,3,1,15,0,10,1,18,2,0
+06553,Monte Hermoso,EAP,1,0,0,0,0,1,0,0,0,0
+06553,Monte Hermoso,Personas,1,0,0,0,0,1,0,0,0,0
+06560,Moreno,EAP,11,1,0,1,1,3,1,4,0,0
+06560,Moreno,Personas,11,1,0,1,1,3,1,4,0,0
+06568,Morón,EAP,3,1,1,0,0,0,0,1,0,0
+06568,Morón,Personas,7,2,3,0,0,0,0,2,0,0
+06574,Navarro,EAP,109,20,2,32,4,31,0,12,6,2
+06574,Navarro,Personas,112,20,2,34,4,32,0,12,6,2
+06581,Necochea,EAP,81,9,3,38,6,11,0,14,0,0
+06581,Necochea,Personas,81,9,3,38,6,11,0,14,0,0
+06588,9 de julio,EAP,161,21,5,64,6,32,1,28,3,1
+06588,9 de julio,Personas,167,21,5,67,6,33,1,30,3,1
+06595,Olavarría,EAP,176,30,2,42,1,62,4,29,1,5
+06595,Olavarría,Personas,179,30,2,43,1,62,4,31,1,5
+06602,Patagones,EAP,126,14,1,60,1,19,0,28,2,1
+06602,Patagones,Personas,129,14,1,61,1,19,0,30,2,1
+06609,Pehuajó,EAP,146,23,2,46,12,41,2,14,6,0
+06609,Pehuajó,Personas,146,23,2,46,12,41,2,14,6,0
+06616,Pellegrini,EAP,48,6,1,19,3,10,0,8,1,0
+06616,Pellegrini,Personas,48,6,1,19,3,10,0,8,1,0
+06623,Pergamino,EAP,135,31,3,46,8,24,0,22,1,0
+06623,Pergamino,Personas,138,31,3,47,8,25,0,23,1,0
+06630,Pila,EAP,66,11,1,20,4,19,0,11,0,0
+06630,Pila,Personas,67,11,1,20,4,20,0,11,0,0
+06638,Pilar,EAP,9,1,0,3,0,1,1,2,1,0
+06638,Pilar,Personas,9,1,0,3,0,1,1,2,1,0
+06644,Pinamar,EAP,0,0,0,0,0,0,0,0,0,0
+06644,Pinamar,Personas,0,0,0,0,0,0,0,0,0,0
+06648,Presidente Perón,EAP,2,1,0,0,0,0,0,1,0,0
+06648,Presidente Perón,Personas,2,1,0,0,0,0,0,1,0,0
+06651,Puán,EAP,214,39,11,45,12,67,3,29,7,1
+06651,Puán,Personas,218,41,11,46,12,68,3,29,7,1
+06655,Punta Indio,EAP,58,7,0,20,1,10,1,18,1,0
+06655,Punta Indio,Personas,58,7,0,20,1,10,1,18,1,0
+06658,Quilmes,EAP,0,0,0,0,0,0,0,0,0,0
+06658,Quilmes,Personas,0,0,0,0,0,0,0,0,0,0
+06665,Ramallo,EAP,26,5,1,7,0,5,0,7,1,0
+06665,Ramallo,Personas,27,5,1,8,0,5,0,7,1,0
+06672,Rauch,EAP,203,47,8,61,14,37,0,29,5,2
+06672,Rauch,Personas,204,48,8,61,14,37,0,29,5,2
+06679,Rivadavia,EAP,75,4,1,38,9,5,0,15,2,1
+06679,Rivadavia,Personas,77,4,1,39,9,5,0,16,2,1
+06686,Rojas,EAP,99,15,3,44,2,14,1,19,0,1
+06686,Rojas,Personas,104,15,3,45,2,15,1,22,0,1
+06693,Roque Pérez,EAP,75,11,3,28,2,11,0,16,2,2
+06693,Roque Pérez,Personas,75,11,3,28,2,11,0,16,2,2
+06700,Saavedra,EAP,152,20,10,48,3,29,2,32,6,2
+06700,Saavedra,Personas,154,20,10,49,3,29,2,33,6,2
+06707,Saladillo,EAP,139,12,15,53,2,25,2,30,0,0
+06707,Saladillo,Personas,140,12,15,54,2,25,2,30,0,0
+06721,Salliqueló,EAP,33,2,0,17,0,5,0,9,0,0
+06721,Salliqueló,Personas,33,2,0,17,0,5,0,9,0,0
+06714,Salto,EAP,73,12,5,21,7,8,2,17,0,1
+06714,Salto,Personas,77,12,5,23,7,8,3,18,0,1
+06728,San Andrés de Giles,EAP,26,1,0,6,0,8,2,9,0,0
+06728,San Andrés de Giles,Personas,27,1,0,6,0,8,2,10,0,0
+06735,San Antonio de Areco,EAP,23,6,0,7,1,0,0,5,4,0
+06735,San Antonio de Areco,Personas,23,6,0,7,1,0,0,5,4,0
+06742,San Cayetano,EAP,52,6,1,27,5,2,1,4,1,5
+06742,San Cayetano,Personas,52,6,1,27,5,2,1,4,1,5
+06749,San Fernando,EAP,17,5,1,0,0,6,2,2,1,0
+06749,San Fernando,Personas,17,5,1,0,0,6,2,2,1,0
+06756,San Isidro,EAP,0,0,0,0,0,0,0,0,0,0
+06756,San Isidro,Personas,0,0,0,0,0,0,0,0,0,0
+06760,San Miguel,EAP,1,0,0,0,0,1,0,0,0,0
+06760,San Miguel,Personas,1,0,0,0,0,1,0,0,0,0
+06763,San Nicolás,EAP,8,4,0,2,0,0,0,2,0,0
+06763,San Nicolás,Personas,10,4,0,2,0,0,0,4,0,0
+06770,San Pedro,EAP,87,8,1,41,4,16,1,12,3,1
+06770,San Pedro,Personas,88,8,1,42,4,16,1,12,3,1
+06778,San Vicente,EAP,60,6,1,4,2,18,1,28,0,0
+06778,San Vicente,Personas,62,6,1,4,2,20,1,28,0,0
+06784,Suipacha,EAP,23,2,0,7,0,7,0,7,0,0
+06784,Suipacha,Personas,23,2,0,7,0,7,0,7,0,0
+06791,Tandil,EAP,77,9,5,29,7,8,1,14,2,2
+06791,Tandil,Personas,78,9,5,29,7,8,1,14,2,3
+06798,Tapalqué,EAP,74,13,2,22,1,18,1,14,2,1
+06798,Tapalqué,Personas,74,13,2,22,1,18,1,14,2,1
+06805,Tigre,EAP,14,0,0,1,0,2,1,10,0,0
+06805,Tigre,Personas,15,0,0,1,0,2,2,10,0,0
+06812,Tordillo,EAP,23,2,0,3,0,14,1,3,0,0
+06812,Tordillo,Personas,23,2,0,3,0,14,1,3,0,0
+06819,Tornquist,EAP,100,9,4,36,2,18,2,23,6,0
+06819,Tornquist,Personas,100,9,4,36,2,18,2,23,6,0
+06826,Trenque Lauquen,EAP,55,7,0,23,3,8,1,12,1,0
+06826,Trenque Lauquen,Personas,55,7,0,23,3,8,1,12,1,0
+06833,Tres Arroyos,EAP,108,7,6,58,8,13,1,11,3,1
+06833,Tres Arroyos,Personas,108,7,6,58,8,13,1,11,3,1
+06840,Tres de Febrero,EAP,1,0,0,1,0,0,0,0,0,0
+06840,Tres de Febrero,Personas,1,0,0,1,0,0,0,0,0,0
+06847,Tres Lomas,EAP,19,2,0,11,1,3,0,1,1,0
+06847,Tres Lomas,Personas,19,2,0,11,1,3,0,1,1,0
+06854,25 de mayo,EAP,156,14,0,58,6,27,2,39,8,2
+06854,25 de mayo,Personas,156,14,0,58,6,27,2,39,8,2
+06861,Vicente López,EAP,0,0,0,0,0,0,0,0,0,0
+06861,Vicente López,Personas,0,0,0,0,0,0,0,0,0,0
+06868,Villa Gesell,EAP,0,0,0,0,0,0,0,0,0,0
+06868,Villa Gesell,Personas,0,0,0,0,0,0,0,0,0,0
+06875,Villarino,EAP,179,24,4,41,9,36,3,54,5,3
+06875,Villarino,Personas,183,25,4,41,9,38,3,55,5,3
+06882,Zárate,EAP,21,2,2,7,0,4,2,4,0,0
+06882,Zárate,Personas,21,2,2,7,0,4,2,4,0,0
+10007,Ambato,EAP,241,29,7,8,0,159,15,22,1,0
+10007,Ambato,Personas,241,29,7,8,0,159,15,22,1,0
+10014,Ancasti,EAP,337,13,2,16,0,237,34,31,0,4
+10014,Ancasti,Personas,337,13,2,16,0,237,34,31,0,4
+10021,Andalgalá,EAP,330,11,6,31,0,159,15,108,0,0
+10021,Andalgalá,Personas,330,11,6,31,0,159,15,108,0,0
+10028,Antofagasta de la Sierra,EAP,48,1,0,1,0,36,8,1,0,1
+10028,Antofagasta de la Sierra,Personas,48,1,0,1,0,36,8,1,0,1
+10035,Belén,EAP,890,142,22,145,1,428,31,113,1,7
+10035,Belén,Personas,891,142,22,145,1,428,31,114,1,7
+10042,Capayán,EAP,412,41,6,57,7,178,39,56,0,28
+10042,Capayán,Personas,412,41,6,57,7,178,39,56,0,28
+10049,Capital,EAP,3,0,1,0,0,2,0,0,0,0
+10049,Capital,Personas,3,0,1,0,0,2,0,0,0,0
+10056,El Alto,EAP,315,22,4,6,1,238,8,31,1,4
+10056,El Alto,Personas,316,22,4,6,1,238,8,32,1,4
+10063,Fray Mamerto Esquiú,EAP,111,10,0,7,1,69,1,17,6,0
+10063,Fray Mamerto Esquiú,Personas,111,10,0,7,1,69,1,17,6,0
+10070,La Paz,EAP,200,11,2,10,0,121,14,41,1,0
+10070,La Paz,Personas,200,11,2,10,0,121,14,41,1,0
+10077,Paclín,EAP,280,43,19,39,0,128,16,35,0,0
+10077,Paclín,Personas,280,43,19,39,0,128,16,35,0,0
+10084,Pomán,EAP,541,38,7,19,0,417,14,43,0,3
+10084,Pomán,Personas,547,38,7,19,0,423,14,43,0,3
+10091,Santa María,EAP,696,46,2,38,0,475,12,111,0,12
+10091,Santa María,Personas,696,46,2,38,0,475,12,111,0,12
+10098,Santa Rosa,EAP,217,24,12,9,0,102,39,29,0,2
+10098,Santa Rosa,Personas,220,25,12,9,0,104,39,29,0,2
+10105,Tinogasta,EAP,543,36,2,22,8,390,16,62,3,4
+10105,Tinogasta,Personas,543,36,2,22,8,390,16,62,3,4
+10112,Valle Viejo,EAP,153,7,0,0,0,97,7,39,2,1
+10112,Valle Viejo,Personas,153,7,0,0,0,97,7,39,2,1
+22007,Almirante Brown,EAP,83,7,3,30,9,17,0,13,3,1
+22007,Almirante Brown,Personas,83,7,3,30,9,17,0,13,3,1
+22014,Bermejo,EAP,59,7,2,15,0,24,1,8,1,1
+22014,Bermejo,Personas,59,7,2,15,0,24,1,8,1,1
+22028,Chacabuco,EAP,12,2,0,7,1,2,0,0,0,0
+22028,Chacabuco,Personas,12,2,0,7,1,2,0,0,0,0
+22021,Comandante Fernández,EAP,95,11,6,29,5,21,4,18,1,0
+22021,Comandante Fernández,Personas,96,11,6,29,5,21,4,19,1,0
+22036,12 de octubre,EAP,37,5,0,23,1,3,0,5,0,0
+22036,12 de octubre,Personas,37,5,0,23,1,3,0,5,0,0
+22039,2 de abril,EAP,51,3,6,25,4,3,1,6,1,2
+22039,2 de abril,Personas,51,3,6,25,4,3,1,6,1,2
+22043,Fray Justo Santa María de Oro,EAP,43,3,1,12,0,13,1,9,0,4
+22043,Fray Justo Santa María de Oro,Personas,44,3,1,12,0,13,1,9,0,5
+22049,General Belgrano,EAP,30,3,1,13,0,7,0,4,2,0
+22049,General Belgrano,Personas,30,3,1,13,0,7,0,4,2,0
+22056,General Donovan,EAP,83,5,2,9,2,37,1,26,1,0
+22056,General Donovan,Personas,83,5,2,9,2,37,1,26,1,0
+22063,General Güemes,EAP,261,26,14,63,5,58,3,80,4,8
+22063,General Güemes,Personas,261,26,14,63,5,58,3,80,4,8
+22070,Independencia,EAP,38,6,3,14,1,6,1,7,0,0
+22070,Independencia,Personas,43,6,3,14,1,6,1,12,0,0
+22077,Libertad,EAP,58,5,0,8,0,27,0,18,0,0
+22077,Libertad,Personas,65,6,0,8,0,31,0,20,0,0
+22084,Libertador General San Martín,EAP,426,52,40,50,3,153,16,107,3,2
+22084,Libertador General San Martín,Personas,446,54,44,51,3,161,16,112,3,2
+22091,Maipú,EAP,87,10,2,26,1,22,2,14,0,10
+22091,Maipú,Personas,87,10,2,26,1,22,2,14,0,10
+22098,Mayor Luis J. Fontana,EAP,126,13,2,32,1,29,1,44,2,2
+22098,Mayor Luis J. Fontana,Personas,134,16,2,34,1,31,1,45,2,2
+22105,9 de julio,EAP,60,6,4,23,2,9,0,15,1,0
+22105,9 de julio,Personas,61,6,4,23,2,9,0,16,1,0
+22112,O'Higgins,EAP,65,5,2,20,0,21,2,13,1,1
+22112,O'Higgins,Personas,65,5,2,20,0,21,2,13,1,1
+22119,Presidencia de la Plaza,EAP,65,10,0,18,1,21,0,15,0,0
+22119,Presidencia de la Plaza,Personas,66,11,0,18,1,21,0,15,0,0
+22126,1° de mayo,EAP,12,0,0,3,0,4,0,5,0,0
+22126,1° de mayo,Personas,13,0,0,4,0,4,0,5,0,0
+22133,Quitilipi,EAP,70,4,1,15,1,31,2,15,0,1
+22133,Quitilipi,Personas,70,4,1,15,1,31,2,15,0,1
+22140,San Fernando,EAP,46,5,2,11,0,13,2,13,0,0
+22140,San Fernando,Personas,52,5,2,11,0,17,2,15,0,0
+22147,San Lorenzo,EAP,61,4,6,10,0,21,0,18,1,1
+22147,San Lorenzo,Personas,62,4,6,11,0,21,0,18,1,1
+22154,Sargento Cabral,EAP,109,9,1,10,0,68,2,18,1,0
+22154,Sargento Cabral,Personas,109,9,1,10,0,68,2,18,1,0
+22161,Tapenagá,EAP,58,9,0,8,0,20,5,16,0,0
+22161,Tapenagá,Personas,65,9,0,8,0,26,5,17,0,0
+22168,25 de mayo,EAP,182,7,18,52,0,32,8,59,5,1
+22168,25 de mayo,Personas,186,7,19,53,0,32,8,61,5,1
+26007,Biedma,EAP,38,2,0,5,0,4,1,26,0,0
+26007,Biedma,Personas,38,2,0,5,0,4,1,26,0,0
+26014,Cushamen,EAP,175,20,7,29,0,67,5,40,0,7
+26014,Cushamen,Personas,177,20,7,29,0,69,5,40,0,7
+26021,Escalante,EAP,44,1,3,6,0,15,4,12,3,0
+26021,Escalante,Personas,44,1,3,6,0,15,4,12,3,0
+26028,Florentino Ameghino,EAP,23,1,0,4,0,10,0,8,0,0
+26028,Florentino Ameghino,Personas,24,1,0,4,0,10,0,9,0,0
+26035,Futaleufú,EAP,175,25,3,47,1,70,2,27,0,0
+26035,Futaleufú,Personas,176,25,3,47,1,70,2,28,0,0
+26042,Gaiman,EAP,127,14,2,26,2,43,3,37,0,0
+26042,Gaiman,Personas,134,15,2,27,2,44,3,41,0,0
+26049,Gastre,EAP,64,7,1,14,0,20,0,21,0,1
+26049,Gastre,Personas,66,7,1,14,0,20,0,23,0,1
+26056,Languiñeo,EAP,142,16,9,14,0,76,5,21,0,1
+26056,Languiñeo,Personas,142,16,9,14,0,76,5,21,0,1
+26063,Mártires,EAP,49,5,1,9,0,13,0,21,0,0
+26063,Mártires,Personas,54,6,1,9,0,15,0,23,0,0
+26070,Paso de Indios,EAP,40,7,0,7,0,11,0,14,1,0
+26070,Paso de Indios,Personas,42,7,0,7,0,13,0,14,1,0
+26077,Rawson,EAP,121,10,2,21,0,38,2,47,1,0
+26077,Rawson,Personas,121,10,2,21,0,38,2,47,1,0
+26084,Río Senguer,EAP,100,4,12,14,1,32,1,34,2,0
+26084,Río Senguer,Personas,104,4,12,14,1,33,1,37,2,0
+26091,Sarmiento,EAP,76,11,2,8,1,35,0,18,1,0
+26091,Sarmiento,Personas,76,11,2,8,1,35,0,18,1,0
+26098,Tehuelches,EAP,71,12,5,12,1,25,5,11,0,0
+26098,Tehuelches,Personas,71,12,5,12,1,25,5,11,0,0
+26105,Telsen,EAP,71,6,1,13,0,23,1,26,0,1
+26105,Telsen,Personas,75,7,1,13,0,26,1,26,0,1
+14007,Calamuchita,EAP,181,14,6,36,7,46,4,60,5,3
+14007,Calamuchita,Personas,187,14,6,41,7,46,4,61,5,3
+14014,Capital,EAP,17,1,0,4,2,4,0,6,0,0
+14014,Capital,Personas,17,1,0,4,2,4,0,6,0,0
+14021,Colón,EAP,80,9,0,15,0,22,4,27,1,2
+14021,Colón,Personas,82,9,0,15,0,22,4,27,1,4
+14028,Cruz del Eje,EAP,266,14,7,52,0,67,32,87,0,7
+14028,Cruz del Eje,Personas,266,14,7,52,0,67,32,87,0,7
+14035,General Roca,EAP,199,28,6,66,18,33,3,31,12,2
+14035,General Roca,Personas,205,28,6,66,18,35,3,35,12,2
+14042,General San Martín,EAP,98,8,3,46,3,11,0,25,2,0
+14042,General San Martín,Personas,98,8,3,46,3,11,0,25,2,0
+14049,Ischilín,EAP,143,9,2,28,1,52,6,43,2,0
+14049,Ischilín,Personas,144,9,2,28,1,53,6,43,2,0
+14056,Juárez Celman,EAP,102,11,5,44,11,7,1,19,3,1
+14056,Juárez Celman,Personas,104,11,5,45,11,8,1,19,3,1
+14063,Marcos Juárez,EAP,354,37,11,138,25,61,1,64,13,4
+14063,Marcos Juárez,Personas,361,40,11,139,25,62,1,64,13,6
+14070,Minas,EAP,133,3,4,19,0,56,20,25,2,4
+14070,Minas,Personas,133,3,4,19,0,56,20,25,2,4
+14077,Pocho,EAP,34,11,0,3,0,14,1,5,0,0
+14077,Pocho,Personas,34,11,0,3,0,14,1,5,0,0
+14084,Presidente Roque Sáenz Peña,EAP,137,16,4,62,8,22,2,20,2,1
+14084,Presidente Roque Sáenz Peña,Personas,140,17,4,63,8,23,2,20,2,1
+14091,Punilla,EAP,51,3,2,6,2,14,4,19,1,0
+14091,Punilla,Personas,52,3,2,6,2,14,4,20,1,0
+14098,Río Cuarto,EAP,382,39,10,176,26,48,9,58,5,11
+14098,Río Cuarto,Personas,388,41,10,179,26,48,9,59,5,11
+14105,Río Primero,EAP,137,12,5,51,6,27,2,30,4,0
+14105,Río Primero,Personas,137,12,5,51,6,27,2,30,4,0
+14112,Río Seco,EAP,59,6,2,13,1,21,2,12,0,2
+14112,Río Seco,Personas,60,6,2,13,1,22,2,12,0,2
+14119,Río Segundo,EAP,179,10,2,73,23,20,3,39,8,1
+14119,Río Segundo,Personas,180,10,2,74,23,20,3,39,8,1
+14126,San Alberto,EAP,143,5,3,49,3,20,12,50,1,0
+14126,San Alberto,Personas,143,5,3,49,3,20,12,50,1,0
+14133,San Javier,EAP,113,1,12,28,0,13,7,49,1,2
+14133,San Javier,Personas,113,1,12,28,0,13,7,49,1,2
+14140,San Justo,EAP,192,21,2,95,0,27,5,37,3,2
+14140,San Justo,Personas,193,21,2,96,0,27,5,37,3,2
+14147,Santa María,EAP,97,12,0,35,2,18,3,26,0,1
+14147,Santa María,Personas,98,12,0,36,2,18,3,26,0,1
+14154,Sobremonte,EAP,97,13,4,12,1,49,4,10,0,4
+14154,Sobremonte,Personas,97,13,4,12,1,49,4,10,0,4
+14161,Tercero Arriba,EAP,167,18,10,69,15,25,2,24,3,1
+14161,Tercero Arriba,Personas,168,18,10,70,15,25,2,24,3,1
+14168,Totoral,EAP,63,10,0,13,0,19,0,19,0,2
+14168,Totoral,Personas,63,10,0,13,0,19,0,19,0,2
+14175,Tulumba,EAP,174,15,12,17,2,63,15,46,4,0
+14175,Tulumba,Personas,179,15,12,17,2,63,15,51,4,0
+14182,Unión,EAP,227,29,4,104,6,27,0,48,5,4
+14182,Unión,Personas,231,29,4,107,6,27,0,49,5,4
+18007,Bella Vista,EAP,129,20,8,32,4,36,1,25,3,0
+18007,Bella Vista,Personas,129,20,8,32,4,36,1,25,3,0
+18014,Berón de Astrada,EAP,7,0,0,1,0,3,0,3,0,0
+18014,Berón de Astrada,Personas,7,0,0,1,0,3,0,3,0,0
+18021,Capital,EAP,85,9,0,9,0,24,1,39,2,1
+18021,Capital,Personas,85,9,0,9,0,24,1,39,2,1
+18028,Concepción,EAP,77,12,1,10,1,28,1,22,2,0
+18028,Concepción,Personas,77,12,1,10,1,28,1,22,2,0
+18035,Curuzú Cuatiá,EAP,159,32,7,41,1,25,2,45,2,4
+18035,Curuzú Cuatiá,Personas,159,32,7,41,1,25,2,45,2,4
+18042,Empedrado,EAP,193,22,4,20,2,74,15,51,1,4
+18042,Empedrado,Personas,194,22,4,20,2,74,15,52,1,4
+18049,Esquina,EAP,160,44,10,17,2,51,3,27,2,4
+18049,Esquina,Personas,160,44,10,17,2,51,3,27,2,4
+18056,General Alvear,EAP,4,0,0,0,0,1,0,3,0,0
+18056,General Alvear,Personas,5,0,0,0,0,2,0,3,0,0
+18063,General Paz,EAP,330,13,4,43,1,167,28,64,4,6
+18063,General Paz,Personas,332,13,4,43,1,167,28,66,4,6
+18070,Goya,EAP,334,51,24,58,4,114,14,60,2,7
+18070,Goya,Personas,335,51,24,59,4,114,14,60,2,7
+18077,Itatí,EAP,207,4,1,3,0,61,3,129,1,5
+18077,Itatí,Personas,207,4,1,3,0,61,3,129,1,5
+18084,Ituzaingó,EAP,95,15,4,18,0,33,1,22,2,0
+18084,Ituzaingó,Personas,95,15,4,18,0,33,1,22,2,0
+18091,Lavalle,EAP,121,11,5,31,6,31,1,29,3,4
+18091,Lavalle,Personas,121,11,5,31,6,31,1,29,3,4
+18098,Mburucuyá,EAP,80,12,4,8,3,34,4,13,2,0
+18098,Mburucuyá,Personas,80,12,4,8,3,34,4,13,2,0
+18105,Mercedes,EAP,86,23,5,10,2,22,4,17,3,0
+18105,Mercedes,Personas,87,23,5,10,2,22,4,18,3,0
+18112,Monte Caseros,EAP,243,32,9,53,2,51,1,95,0,0
+18112,Monte Caseros,Personas,247,33,9,53,2,51,1,98,0,0
+18119,Paso de los Libres,EAP,40,5,0,3,1,5,0,4,0,22
+18119,Paso de los Libres,Personas,40,5,0,3,1,5,0,4,0,22
+18126,Saladas,EAP,21,1,0,4,0,9,2,5,0,0
+18126,Saladas,Personas,21,1,0,4,0,9,2,5,0,0
+18133,San Cosme,EAP,16,0,1,1,0,0,1,7,0,6
+18133,San Cosme,Personas,16,0,1,1,0,0,1,7,0,6
+18140,San Luis del Palmar,EAP,210,22,5,14,1,100,8,45,3,12
+18140,San Luis del Palmar,Personas,212,23,5,14,1,101,8,45,3,12
+18147,San Martín,EAP,97,11,3,16,1,34,5,26,0,1
+18147,San Martín,Personas,100,11,3,16,1,35,5,28,0,1
+18154,San Miguel,EAP,108,11,4,38,1,24,3,21,4,2
+18154,San Miguel,Personas,113,12,4,39,1,25,3,23,4,2
+18161,San Roque,EAP,128,14,5,15,1,52,2,34,5,0
+18161,San Roque,Personas,129,14,5,15,1,52,2,35,5,0
+18168,Santo Tomé,EAP,175,30,4,30,4,55,1,45,2,4
+18168,Santo Tomé,Personas,184,32,4,31,4,56,1,50,2,4
+18175,Sauce,EAP,69,13,0,17,0,17,0,18,1,3
+18175,Sauce,Personas,69,13,0,17,0,17,0,18,1,3
+30008,Colón,EAP,397,46,13,122,19,50,5,120,15,7
+30008,Colón,Personas,408,46,13,130,19,51,5,122,15,7
+30015,Concordia,EAP,202,32,3,41,2,44,3,77,0,0
+30015,Concordia,Personas,202,32,3,41,2,44,3,77,0,0
+30021,Diamante,EAP,137,19,5,53,4,29,3,19,1,4
+30021,Diamante,Personas,143,19,5,55,4,31,3,21,1,4
+30028,Federación,EAP,247,29,24,58,5,32,9,84,4,2
+30028,Federación,Personas,248,29,24,59,5,32,9,84,4,2
+30035,Federal,EAP,114,17,4,24,3,39,4,19,3,1
+30035,Federal,Personas,114,17,4,24,3,39,4,19,3,1
+30042,Feliciano,EAP,154,26,2,24,4,55,1,38,4,0
+30042,Feliciano,Personas,157,26,2,24,4,55,1,41,4,0
+30049,Gualeguay,EAP,89,20,3,21,4,18,0,22,1,0
+30049,Gualeguay,Personas,92,20,3,21,4,20,0,23,1,0
+30056,Gualeguaychú,EAP,282,36,8,85,10,59,2,72,6,4
+30056,Gualeguaychú,Personas,288,37,8,87,10,59,2,74,6,5
+30063,Islas del Ibicuy,EAP,62,6,1,25,0,14,0,13,3,0
+30063,Islas del Ibicuy,Personas,62,6,1,25,0,14,0,13,3,0
+30070,La Paz,EAP,180,17,9,39,1,59,4,40,3,8
+30070,La Paz,Personas,182,17,9,39,1,60,4,41,3,8
+30077,Nogoyá,EAP,252,25,14,80,7,53,5,59,3,6
+30077,Nogoyá,Personas,262,26,14,85,7,56,5,60,3,6
+30084,Paraná,EAP,254,38,2,87,6,50,4,35,4,28
+30084,Paraná,Personas,258,38,2,89,6,50,4,35,4,30
+30088,San Salvador,EAP,76,14,2,22,1,17,1,18,1,0
+30088,San Salvador,Personas,77,15,2,22,1,17,1,18,1,0
+30091,Tala,EAP,187,17,6,51,1,46,5,55,4,2
+30091,Tala,Personas,191,17,6,54,1,47,5,55,4,2
+30098,Uruguay,EAP,166,20,5,51,5,26,2,49,4,4
+30098,Uruguay,Personas,167,20,5,51,5,27,2,49,4,4
+30105,Victoria,EAP,149,16,5,51,2,17,1,33,1,23
+30105,Victoria,Personas,152,17,5,53,2,17,1,33,1,23
+30113,Villaguay,EAP,318,52,13,91,5,63,4,83,3,4
+30113,Villaguay,Personas,321,52,13,91,5,65,4,84,3,4
+34007,Bermejo,EAP,158,8,8,50,6,47,2,30,1,6
+34007,Bermejo,Personas,161,8,8,52,6,48,2,30,1,6
+34021,Laishi,EAP,82,10,10,0,0,38,2,18,4,0
+34021,Laishi,Personas,82,10,10,0,0,38,2,18,4,0
+34028,Matacos,EAP,30,1,0,4,4,10,1,7,0,3
+34028,Matacos,Personas,31,1,0,4,4,10,1,8,0,3
+34035,Patiño,EAP,474,38,22,124,3,158,7,99,0,23
+34035,Patiño,Personas,484,38,22,125,3,163,7,103,0,23
+34042,Pilagás,EAP,167,14,20,37,0,50,8,33,2,3
+34042,Pilagás,Personas,169,14,21,37,0,51,8,33,2,3
+34049,Pilcomayo,EAP,298,43,31,44,4,113,24,33,4,2
+34049,Pilcomayo,Personas,302,43,31,44,4,113,24,37,4,2
+34056,Pirané,EAP,300,32,26,46,5,102,11,64,4,10
+34056,Pirané,Personas,304,33,26,46,5,104,11,65,4,10
+34063,Ramón Lista,EAP,64,3,1,6,1,20,5,26,1,1
+34063,Ramón Lista,Personas,64,3,1,6,1,20,5,26,1,1
+38007,Cochinoca,EAP,324,9,3,56,0,107,16,121,1,11
+38007,Cochinoca,Personas,327,9,3,56,0,107,16,124,1,11
+38021,Dr. Manuel Belgrano,EAP,253,17,13,14,0,120,12,77,0,0
+38021,Dr. Manuel Belgrano,Personas,260,17,13,14,0,125,13,78,0,0
+38014,El Carmen,EAP,165,18,6,32,1,49,5,52,1,1
+38014,El Carmen,Personas,168,19,6,32,1,49,5,54,1,1
+38028,Humahuaca,EAP,215,4,4,20,1,86,13,84,0,3
+38028,Humahuaca,Personas,215,4,4,20,1,86,13,84,0,3
+38035,Ledesma,EAP,77,3,2,27,0,14,1,26,0,4
+38035,Ledesma,Personas,78,3,2,27,0,14,1,26,0,5
+38042,Palpalá,EAP,57,7,3,4,0,23,2,15,1,2
+38042,Palpalá,Personas,57,7,3,4,0,23,2,15,1,2
+38049,Rinconada,EAP,37,2,2,2,0,23,4,3,0,1
+38049,Rinconada,Personas,37,2,2,2,0,23,4,3,0,1
+38056,San Antonio,EAP,97,7,0,11,2,45,2,27,2,1
+38056,San Antonio,Personas,98,7,0,11,2,46,2,27,2,1
+38063,San Pedro,EAP,25,3,1,2,1,8,0,9,1,0
+38063,San Pedro,Personas,25,3,1,2,1,8,0,9,1,0
+38070,Santa Bárbara,EAP,71,10,2,7,0,30,4,16,1,1
+38070,Santa Bárbara,Personas,71,10,2,7,0,30,4,16,1,1
+38077,Santa Catalina,EAP,116,6,1,6,0,82,6,12,1,2
+38077,Santa Catalina,Personas,116,6,1,6,0,82,6,12,1,2
+38084,Susques,EAP,12,0,0,0,0,8,2,2,0,0
+38084,Susques,Personas,12,0,0,0,0,8,2,2,0,0
+38094,Tilcara,EAP,135,4,7,18,1,60,9,35,0,1
+38094,Tilcara,Personas,135,4,7,18,1,60,9,35,0,1
+38098,Tumbaya,EAP,133,3,0,4,0,81,5,38,1,1
+38098,Tumbaya,Personas,134,3,0,5,0,81,5,38,1,1
+38105,Valle Grande,EAP,253,3,1,20,0,100,6,121,0,2
+38105,Valle Grande,Personas,253,3,1,20,0,100,6,121,0,2
+38112,Yavi,EAP,292,23,6,13,0,156,16,72,2,4
+38112,Yavi,Personas,298,23,6,13,0,162,16,72,2,4
+42007,Atreucó,EAP,46,5,1,22,2,11,0,5,0,0
+42007,Atreucó,Personas,46,5,1,22,2,11,0,5,0,0
+42014,Caleu Caleu,EAP,75,16,3,17,1,17,1,15,5,0
+42014,Caleu Caleu,Personas,75,16,3,17,1,17,1,15,5,0
+42021,Capital,EAP,105,12,2,32,3,16,1,35,2,2
+42021,Capital,Personas,107,13,2,32,3,17,1,35,2,2
+42028,Catriló,EAP,56,11,3,15,4,12,0,8,3,0
+42028,Catriló,Personas,56,11,3,15,4,12,0,8,3,0
+42049,Chalileo,EAP,113,14,3,40,0,39,4,12,0,1
+42049,Chalileo,Personas,113,14,3,40,0,39,4,12,0,1
+42056,Chapaleufú,EAP,101,18,1,27,9,26,0,12,8,0
+42056,Chapaleufú,Personas,101,18,1,27,9,26,0,12,8,0
+42063,Chical Co,EAP,133,10,4,35,0,36,7,38,3,0
+42063,Chical Co,Personas,133,10,4,35,0,36,7,38,3,0
+42035,Conhelo,EAP,56,4,0,18,0,6,0,11,0,17
+42035,Conhelo,Personas,57,4,0,18,0,6,0,12,0,17
+42042,Curacó,EAP,63,4,4,12,1,24,7,11,0,0
+42042,Curacó,Personas,63,4,4,12,1,24,7,11,0,0
+42070,Guatraché,EAP,100,5,2,28,0,11,0,23,0,31
+42070,Guatraché,Personas,101,5,2,28,0,11,0,23,0,32
+42077,Hucal,EAP,81,4,1,16,3,24,0,28,5,0
+42077,Hucal,Personas,81,4,1,16,3,24,0,28,5,0
+42084,Lihuel Calel,EAP,76,7,1,21,2,13,0,29,2,1
+42084,Lihuel Calel,Personas,81,7,1,22,2,13,0,33,2,1
+42091,Limay Mahuida,EAP,51,4,2,6,1,21,1,16,0,0
+42091,Limay Mahuida,Personas,51,4,2,6,1,21,1,16,0,0
+42098,Loventué,EAP,111,23,3,27,3,30,2,14,8,1
+42098,Loventué,Personas,112,23,3,27,3,30,2,14,8,2
+42105,Maracó,EAP,54,8,1,20,2,7,0,16,0,0
+42105,Maracó,Personas,55,8,1,20,2,7,0,17,0,0
+42112,Puelén,EAP,49,6,3,3,0,25,1,11,0,0
+42112,Puelén,Personas,49,6,3,3,0,25,1,11,0,0
+42119,Quemú Quemú,EAP,74,4,2,25,2,19,0,19,1,2
+42119,Quemú Quemú,Personas,74,4,2,25,2,19,0,19,1,2
+42126,Rancul,EAP,114,12,1,43,3,31,1,23,0,0
+42126,Rancul,Personas,114,12,1,43,3,31,1,23,0,0
+42133,Realicó,EAP,103,16,3,37,5,21,0,10,11,0
+42133,Realicó,Personas,107,16,4,37,5,22,0,12,11,0
+42140,Toay,EAP,101,13,3,20,0,22,0,41,0,2
+42140,Toay,Personas,101,13,3,20,0,22,0,41,0,2
+42147,Trenel,EAP,33,4,0,7,3,6,0,11,0,2
+42147,Trenel,Personas,33,4,0,7,3,6,0,11,0,2
+42154,Utracán,EAP,110,8,2,24,7,29,2,23,15,0
+42154,Utracán,Personas,110,8,2,24,7,29,2,23,15,0
+46056,Ángel Vicente Peñaloza,EAP,85,5,2,4,0,58,7,8,1,0
+46056,Ángel Vicente Peñaloza,Personas,85,5,2,4,0,58,7,8,1,0
+46007,Arauco,EAP,41,2,1,3,0,11,0,24,0,0
+46007,Arauco,Personas,41,2,1,3,0,11,0,24,0,0
+46014,Capital,EAP,121,9,2,7,0,89,3,6,1,4
+46014,Capital,Personas,121,9,2,7,0,89,3,6,1,4
+46021,Castro Barros,EAP,82,8,1,0,1,67,4,1,0,0
+46021,Castro Barros,Personas,82,8,1,0,1,67,4,1,0,0
+46035,Chamical,EAP,95,7,1,3,0,64,1,16,0,3
+46035,Chamical,Personas,95,7,1,3,0,64,1,16,0,3
+46042,Chilecito,EAP,100,28,0,5,1,59,0,6,1,0
+46042,Chilecito,Personas,100,28,0,5,1,59,0,6,1,0
+46049,Famatina,EAP,353,54,2,9,0,245,16,24,0,3
+46049,Famatina,Personas,353,54,2,9,0,245,16,24,0,3
+46063,General Belgrano,EAP,207,4,0,13,1,149,5,32,1,2
+46063,General Belgrano,Personas,207,4,0,13,1,149,5,32,1,2
+46028,General Felipe Varela,EAP,202,34,2,17,0,84,15,46,4,0
+46028,General Felipe Varela,Personas,202,34,2,17,0,84,15,46,4,0
+46070,General Juan Facundo Quiroga,EAP,65,1,1,2,1,58,0,1,1,0
+46070,General Juan Facundo Quiroga,Personas,65,1,1,2,1,58,0,1,1,0
+46077,General Lamadrid,EAP,8,2,0,0,1,5,0,0,0,0
+46077,General Lamadrid,Personas,8,2,0,0,1,5,0,0,0,0
+46084,General Ortiz de Ocampo,EAP,184,4,1,3,0,134,14,26,1,1
+46084,General Ortiz de Ocampo,Personas,185,4,1,3,0,135,14,26,1,1
+46091,General San Martín,EAP,244,15,12,15,0,137,28,36,1,0
+46091,General San Martín,Personas,257,15,14,15,0,139,36,37,1,0
+46105,Independencia,EAP,59,3,1,2,1,41,5,6,0,0
+46105,Independencia,Personas,59,3,1,2,1,41,5,6,0,0
+46112,Rosario Vera Peñaloza,EAP,53,5,3,10,0,25,6,4,0,0
+46112,Rosario Vera Peñaloza,Personas,53,5,3,10,0,25,6,4,0,0
+46119,San Blas de Los Sauces,EAP,89,10,27,4,0,26,15,1,0,6
+46119,San Blas de Los Sauces,Personas,89,10,27,4,0,26,15,1,0,6
+46126,Sanagasta,EAP,79,2,1,3,0,56,5,11,0,1
+46126,Sanagasta,Personas,79,2,1,3,0,56,5,11,0,1
+46098,Vinchina,EAP,46,4,3,9,2,22,2,4,0,0
+46098,Vinchina,Personas,46,4,3,9,2,22,2,4,0,0
+50007,Capital,EAP,0,0,0,0,0,0,0,0,0,0
+50007,Capital,Personas,0,0,0,0,0,0,0,0,0,0
+50014,General Alvear,EAP,674,60,62,92,4,190,28,225,4,9
+50014,General Alvear,Personas,678,60,62,92,4,192,28,227,4,9
+50021,Godoy Cruz,EAP,0,0,0,0,0,0,0,0,0,0
+50021,Godoy Cruz,Personas,0,0,0,0,0,0,0,0,0,0
+50028,Guaymallén,EAP,82,6,6,29,3,15,3,19,0,1
+50028,Guaymallén,Personas,82,6,6,29,3,15,3,19,0,1
+50035,Junín,EAP,344,42,5,57,4,116,4,110,3,3
+50035,Junín,Personas,348,42,5,57,4,119,4,111,3,3
+50042,La Paz,EAP,103,9,1,9,0,41,1,40,2,0
+50042,La Paz,Personas,103,9,1,9,0,41,1,40,2,0
+50049,Las Heras,EAP,109,7,3,38,1,21,6,30,3,0
+50049,Las Heras,Personas,109,7,3,38,1,21,6,30,3,0
+50056,Lavalle,EAP,408,55,40,85,4,106,6,106,2,4
+50056,Lavalle,Personas,415,56,40,87,4,109,6,107,2,4
+50063,Luján de Cuyo,EAP,157,14,5,24,1,52,9,46,6,0
+50063,Luján de Cuyo,Personas,161,14,5,24,1,53,9,49,6,0
+50070,Maipú,EAP,577,46,26,118,10,131,12,198,5,31
+50070,Maipú,Personas,579,46,26,118,10,132,12,199,5,31
+50077,Malargüe,EAP,141,5,7,11,0,86,11,19,1,1
+50077,Malargüe,Personas,141,5,7,11,0,86,11,19,1,1
+50084,Rivadavia,EAP,332,31,7,67,5,102,3,107,9,1
+50084,Rivadavia,Personas,337,33,7,68,5,103,3,108,9,1
+50091,San Carlos,EAP,401,36,28,81,4,109,11,124,4,4
+50091,San Carlos,Personas,405,37,28,82,4,111,11,124,4,4
+50098,San Martín,EAP,739,58,16,121,7,213,23,282,9,10
+50098,San Martín,Personas,744,58,16,121,7,216,23,284,9,10
+50105,San Rafael,EAP,1815,152,93,259,30,569,59,580,51,22
+50105,San Rafael,Personas,1818,152,93,260,30,569,59,582,51,22
+50112,Santa Rosa,EAP,237,15,4,28,0,71,12,105,1,1
+50112,Santa Rosa,Personas,241,15,4,28,0,71,12,109,1,1
+50119,Tunuyán,EAP,264,25,13,43,7,61,9,96,6,4
+50119,Tunuyán,Personas,265,25,13,43,7,61,9,97,6,4
+50126,Tupungato,EAP,122,9,1,17,1,56,4,30,0,4
+50126,Tupungato,Personas,124,9,1,18,1,56,4,31,0,4
+54007,Apóstoles,EAP,208,29,11,27,3,82,7,46,2,1
+54007,Apóstoles,Personas,208,29,11,27,3,82,7,46,2,1
+54014,Cainguás,EAP,271,14,15,58,54,52,8,56,10,4
+54014,Cainguás,Personas,271,14,15,58,54,52,8,56,10,4
+54021,Candelaria,EAP,19,1,2,2,0,6,1,6,1,0
+54021,Candelaria,Personas,19,1,2,2,0,6,1,6,1,0
+54028,Capital,EAP,11,2,1,1,0,4,0,1,1,1
+54028,Capital,Personas,11,2,1,1,0,4,0,1,1,1
+54035,Concepción,EAP,88,10,2,5,0,35,1,35,0,0
+54035,Concepción,Personas,88,10,2,5,0,35,1,35,0,0
+54042,Eldorado,EAP,263,28,9,29,4,58,11,116,7,1
+54042,Eldorado,Personas,263,28,9,29,4,58,11,116,7,1
+54049,General Manuel Belgrano,EAP,235,17,12,59,3,59,3,75,3,4
+54049,General Manuel Belgrano,Personas,235,17,12,59,3,59,3,75,3,4
+54056,Guaraní,EAP,245,16,43,63,9,34,10,55,4,11
+54056,Guaraní,Personas,245,16,43,63,9,34,10,55,4,11
+54063,Iguazú,EAP,97,13,1,8,2,42,1,27,2,1
+54063,Iguazú,Personas,98,13,1,9,2,42,1,27,2,1
+54070,Leandro N. Alem,EAP,350,39,21,46,6,137,17,71,8,5
+54070,Leandro N. Alem,Personas,351,39,21,46,6,137,17,72,8,5
+54077,Libertador General San Martín,EAP,273,19,7,49,10,72,12,85,13,6
+54077,Libertador General San Martín,Personas,273,19,7,49,10,72,12,85,13,6
+54084,Montecarlo,EAP,208,20,1,38,3,52,0,86,3,5
+54084,Montecarlo,Personas,209,20,1,38,3,53,0,86,3,5
+54091,Oberá,EAP,600,41,40,137,16,149,32,163,11,11
+54091,Oberá,Personas,602,41,40,137,16,149,32,165,11,11
+54098,San Ignacio,EAP,262,27,23,43,5,67,8,84,2,3
+54098,San Ignacio,Personas,262,27,23,43,5,67,8,84,2,3
+54105,San Javier,EAP,152,22,4,34,2,45,6,31,8,0
+54105,San Javier,Personas,152,22,4,34,2,45,6,31,8,0
+54112,San Pedro,EAP,297,23,78,73,4,46,3,62,4,4
+54112,San Pedro,Personas,298,23,78,74,4,46,3,62,4,4
+54119,25 de mayo,EAP,144,12,6,24,1,47,6,42,1,5
+54119,25 de mayo,Personas,145,12,6,25,1,47,6,42,1,5
+58007,Aluminé,EAP,125,16,2,13,1,62,2,28,1,0
+58007,Aluminé,Personas,125,16,2,13,1,62,2,28,1,0
+58014,Añelo,EAP,97,6,9,7,1,49,13,9,1,2
+58014,Añelo,Personas,98,6,9,7,1,50,13,9,1,2
+58021,Catán Lil,EAP,38,2,2,2,0,28,0,3,0,1
+58021,Catán Lil,Personas,38,2,2,2,0,28,0,3,0,1
+58042,Chos  Malal,EAP,76,9,0,12,2,27,0,23,0,3
+58042,Chos  Malal,Personas,77,9,0,12,2,28,0,23,0,3
+58028,Collón Curá,EAP,17,6,1,0,0,8,0,2,0,0
+58028,Collón Curá,Personas,17,6,1,0,0,8,0,2,0,0
+58035,Confluencia,EAP,145,21,8,11,2,74,6,17,4,2
+58035,Confluencia,Personas,148,21,8,11,2,77,6,17,4,2
+58049,Huiliches,EAP,14,3,3,0,0,6,1,1,0,0
+58049,Huiliches,Personas,14,3,3,0,0,6,1,1,0,0
+58056,Lácar,EAP,5,1,0,0,0,2,1,1,0,0
+58056,Lácar,Personas,5,1,0,0,0,2,1,1,0,0
+58063,Loncopué,EAP,79,4,2,7,1,13,2,2,0,48
+58063,Loncopué,Personas,79,4,2,7,1,13,2,2,0,48
+58070,Los Lagos,EAP,14,1,1,0,1,6,0,3,2,0
+58070,Los Lagos,Personas,14,1,1,0,1,6,0,3,2,0
+58077,Minas,EAP,91,23,6,4,0,47,0,11,0,0
+58077,Minas,Personas,94,23,6,4,0,50,0,11,0,0
+58084,Ñorquín,EAP,40,5,3,3,0,23,2,3,0,1
+58084,Ñorquín,Personas,41,5,3,3,0,24,2,3,0,1
+58091,Pehuenches,EAP,29,2,0,1,1,19,3,2,0,1
+58091,Pehuenches,Personas,29,2,0,1,1,19,3,2,0,1
+58098,Picún Leufú,EAP,75,16,2,9,0,33,2,13,0,0
+58098,Picún Leufú,Personas,75,16,2,9,0,33,2,13,0,0
+58105,Picunches,EAP,70,3,0,4,1,47,2,10,2,1
+58105,Picunches,Personas,70,3,0,4,1,47,2,10,2,1
+58112,Zapala,EAP,80,0,2,8,1,42,4,22,0,1
+58112,Zapala,Personas,80,0,2,8,1,42,4,22,0,1
+62007,Adolfo Alsina,EAP,215,44,7,36,2,73,2,46,2,3
+62007,Adolfo Alsina,Personas,219,44,7,36,2,74,2,49,2,3
+62014,Avellaneda,EAP,420,32,23,147,1,96,12,105,2,2
+62014,Avellaneda,Personas,422,32,23,147,1,96,12,107,2,2
+62021,Bariloche,EAP,86,6,1,24,0,19,4,29,1,2
+62021,Bariloche,Personas,91,6,1,25,0,19,4,33,1,2
+62028,Conesa,EAP,178,9,5,46,2,47,2,63,2,2
+62028,Conesa,Personas,181,9,5,46,2,48,2,65,2,2
+62035,El Cuy,EAP,35,9,1,4,2,6,0,12,0,1
+62035,El Cuy,Personas,35,9,1,4,2,6,0,12,0,1
+62042,General Roca,EAP,652,76,15,113,24,185,7,211,18,3
+62042,General Roca,Personas,667,76,15,114,24,192,7,218,18,3
+62049,9 de julio,EAP,53,2,0,9,0,20,0,22,0,0
+62049,9 de julio,Personas,55,2,0,9,0,21,0,23,0,0
+62056,Ñorquinco,EAP,39,5,2,9,2,7,2,12,0,0
+62056,Ñorquinco,Personas,41,5,2,9,2,7,2,14,0,0
+62063,Pichi Mahuida,EAP,289,28,8,65,19,65,4,78,19,3
+62063,Pichi Mahuida,Personas,293,28,8,66,19,67,4,79,19,3
+62070,Pilcaniyeu,EAP,99,5,9,9,3,47,3,19,4,0
+62070,Pilcaniyeu,Personas,101,5,9,9,3,47,3,21,4,0
+62077,San Antonio,EAP,32,0,1,3,0,12,1,12,3,0
+62077,San Antonio,Personas,32,0,1,3,0,12,1,12,3,0
+62084,Valcheta,EAP,57,3,7,3,1,31,3,7,2,0
+62084,Valcheta,Personas,57,3,7,3,1,31,3,7,2,0
+62091,25 de mayo,EAP,108,8,3,15,0,36,4,38,1,3
+62091,25 de mayo,Personas,116,8,3,15,0,43,4,39,1,3
+66007,Anta,EAP,77,10,10,24,0,13,5,14,0,1
+66007,Anta,Personas,77,10,10,24,0,13,5,14,0,1
+66014,Cachi,EAP,17,1,5,1,0,5,1,2,0,2
+66014,Cachi,Personas,17,1,5,1,0,5,1,2,0,2
+66021,Cafayate,EAP,25,5,3,3,0,9,0,4,0,1
+66021,Cafayate,Personas,25,5,3,3,0,9,0,4,0,1
+66028,Capital,EAP,12,1,2,4,0,1,0,4,0,0
+66028,Capital,Personas,13,1,3,4,0,1,0,4,0,0
+66035,Cerrillos,EAP,34,3,1,5,0,11,0,12,1,1
+66035,Cerrillos,Personas,36,3,3,5,0,11,0,12,1,1
+66042,Chicoana,EAP,54,1,1,7,4,15,6,19,0,1
+66042,Chicoana,Personas,54,1,1,7,4,15,6,19,0,1
+66049,General Güemes,EAP,41,1,9,8,0,4,3,15,1,0
+66049,General Güemes,Personas,41,1,9,8,0,4,3,15,1,0
+66056,General José de San Martín,EAP,89,10,1,9,3,22,11,32,1,0
+66056,General José de San Martín,Personas,89,10,1,9,3,22,11,32,1,0
+66063,Guachipas,EAP,90,5,6,20,0,27,10,22,0,0
+66063,Guachipas,Personas,92,5,6,22,0,27,10,22,0,0
+66070,Iruya,EAP,89,0,3,36,0,33,2,13,0,2
+66070,Iruya,Personas,89,0,3,36,0,33,2,13,0,2
+66077,La Caldera,EAP,39,2,12,7,0,6,3,8,0,1
+66077,La Caldera,Personas,39,2,12,7,0,6,3,8,0,1
+66084,La Candelaria,EAP,33,0,2,13,0,4,2,11,1,0
+66084,La Candelaria,Personas,33,0,2,13,0,4,2,11,1,0
+66091,La Poma,EAP,72,1,2,26,0,15,0,27,0,1
+66091,La Poma,Personas,72,1,2,26,0,15,0,27,0,1
+66098,La Viña,EAP,118,18,4,9,0,41,3,38,2,3
+66098,La Viña,Personas,118,18,4,9,0,41,3,38,2,3
+66105,Los Andes,EAP,2,0,0,0,0,1,0,1,0,0
+66105,Los Andes,Personas,2,0,0,0,0,1,0,1,0,0
+66112,Metán,EAP,29,2,3,8,0,6,2,7,1,0
+66112,Metán,Personas,29,2,3,8,0,6,2,7,1,0
+66119,Molinos,EAP,123,2,6,21,1,23,14,53,1,2
+66119,Molinos,Personas,123,2,6,21,1,23,14,53,1,2
+66126,Orán,EAP,29,3,6,2,0,10,0,8,0,0
+66126,Orán,Personas,32,3,6,2,0,11,0,10,0,0
+66133,Rivadavia,EAP,56,2,2,15,1,13,3,19,1,0
+66133,Rivadavia,Personas,58,2,2,16,1,14,3,19,1,0
+66140,Rosario de la Frontera,EAP,81,3,12,19,1,26,1,16,3,0
+66140,Rosario de la Frontera,Personas,81,3,12,19,1,26,1,16,3,0
+66147,Rosario de Lerma,EAP,24,2,0,2,0,8,0,9,3,0
+66147,Rosario de Lerma,Personas,24,2,0,2,0,8,0,9,3,0
+66154,San Carlos,EAP,50,6,4,5,2,17,2,12,0,2
+66154,San Carlos,Personas,50,6,4,5,2,17,2,12,0,2
+66161,Santa Victoria,EAP,224,7,0,105,0,39,1,71,0,1
+66161,Santa Victoria,Personas,224,7,0,105,0,39,1,71,0,1
+70007,Albardón,EAP,119,15,7,17,0,43,2,34,1,0
+70007,Albardón,Personas,119,15,7,17,0,43,2,34,1,0
+70014,Angaco,EAP,108,21,5,11,0,34,1,34,2,0
+70014,Angaco,Personas,110,21,5,11,0,34,1,36,2,0
+70021,Calingasta,EAP,171,19,8,22,1,56,14,45,6,0
+70021,Calingasta,Personas,174,19,9,22,1,57,14,46,6,0
+70028,Capital,EAP,0,0,0,0,0,0,0,0,0,0
+70028,Capital,Personas,0,0,0,0,0,0,0,0,0,0
+70035,Caucete,EAP,166,20,13,21,0,49,7,47,6,3
+70035,Caucete,Personas,174,20,13,21,0,57,7,47,6,3
+70042,Chimbas,EAP,70,3,1,7,1,25,0,32,1,0
+70042,Chimbas,Personas,71,3,1,7,1,25,0,33,1,0
+70049,Iglesia,EAP,54,5,1,1,0,32,2,13,0,0
+70049,Iglesia,Personas,54,5,1,1,0,32,2,13,0,0
+70056,Jáchal,EAP,156,13,6,26,0,65,13,32,1,0
+70056,Jáchal,Personas,159,14,6,26,0,67,13,32,1,0
+70063,9 de julio,EAP,56,8,0,7,1,15,1,16,8,0
+70063,9 de julio,Personas,58,8,0,7,1,15,1,18,8,0
+70070,Pocito,EAP,141,9,2,14,2,42,0,71,1,0
+70070,Pocito,Personas,141,9,2,14,2,42,0,71,1,0
+70077,Rawson,EAP,106,11,4,14,0,40,2,33,1,1
+70077,Rawson,Personas,106,11,4,14,0,40,2,33,1,1
+70084,Rivadavia,EAP,33,0,0,8,0,10,0,15,0,0
+70084,Rivadavia,Personas,33,0,0,8,0,10,0,15,0,0
+70091,San Martín,EAP,128,24,19,11,2,42,4,23,1,2
+70091,San Martín,Personas,129,24,19,11,2,43,4,23,1,2
+70098,Santa Lucía,EAP,59,7,2,6,2,26,1,14,1,0
+70098,Santa Lucía,Personas,60,7,2,6,2,27,1,14,1,0
+70105,Sarmiento,EAP,133,22,2,29,0,44,4,32,0,0
+70105,Sarmiento,Personas,136,22,2,30,0,46,4,32,0,0
+70112,Ullum,EAP,32,5,1,2,0,15,2,5,2,0
+70112,Ullum,Personas,32,5,1,2,0,15,2,5,2,0
+70119,Valle Fértil,EAP,90,6,0,8,0,49,3,24,0,0
+70119,Valle Fértil,Personas,94,6,0,8,0,52,3,25,0,0
+70126,25 de mayo,EAP,117,9,8,16,1,47,1,34,1,0
+70126,25 de mayo,Personas,122,10,8,16,1,49,1,36,1,0
+70133,Zonda,EAP,39,4,0,2,0,23,1,9,0,0
+70133,Zonda,Personas,39,4,0,2,0,23,1,9,0,0
+74007,Ayacucho,EAP,85,8,0,17,2,34,2,19,3,0
+74007,Ayacucho,Personas,91,8,0,17,2,37,2,22,3,0
+74014,Belgrano,EAP,141,10,3,10,2,68,2,42,4,0
+74014,Belgrano,Personas,146,10,3,10,2,73,2,42,4,0
+74028,Chacabuco,EAP,117,19,10,8,3,64,2,8,3,0
+74028,Chacabuco,Personas,118,19,10,8,3,65,2,8,3,0
+74021,Coronel Pringles,EAP,213,7,0,16,2,132,2,51,1,2
+74021,Coronel Pringles,Personas,213,7,0,16,2,132,2,51,1,2
+74035,General Pedernera,EAP,119,25,6,39,3,18,1,22,3,2
+74035,General Pedernera,Personas,121,25,7,40,3,18,1,22,3,2
+74042,Gobernador Dupuy,EAP,87,8,2,37,4,23,0,12,1,0
+74042,Gobernador Dupuy,Personas,87,8,2,37,4,23,0,12,1,0
+74056,Juan Martín de Pueyrredón,EAP,86,10,4,19,1,26,3,19,4,0
+74056,Juan Martín de Pueyrredón,Personas,86,10,4,19,1,26,3,19,4,0
+74049,Junín,EAP,65,6,4,13,4,18,0,16,4,0
+74049,Junín,Personas,65,6,4,13,4,18,0,16,4,0
+74063,Libertador General San Martín,EAP,222,16,19,7,1,126,31,18,0,4
+74063,Libertador General San Martín,Personas,224,16,19,7,1,128,31,18,0,4
+78007,Corpen Aike,EAP,26,7,0,5,0,9,0,4,1,0
+78007,Corpen Aike,Personas,26,7,0,5,0,9,0,4,1,0
+78014,Deseado,EAP,92,5,0,11,1,24,1,49,1,0
+78014,Deseado,Personas,93,5,0,11,1,25,1,49,1,0
+78021,Güer Aike,EAP,16,3,0,2,0,9,0,2,0,0
+78021,Güer Aike,Personas,16,3,0,2,0,9,0,2,0,0
+78028,Lago Argentino,EAP,22,8,0,1,0,6,1,3,0,3
+78028,Lago Argentino,Personas,22,8,0,1,0,6,1,3,0,3
+78035,Lago Buenos Aires,EAP,72,16,0,4,2,30,0,18,2,0
+78035,Lago Buenos Aires,Personas,75,16,0,4,2,33,0,18,2,0
+78042,Magallanes,EAP,12,1,0,0,0,5,1,5,0,0
+78042,Magallanes,Personas,12,1,0,0,0,5,1,5,0,0
+78049,Río Chico,EAP,45,3,2,9,7,14,0,10,0,0
+78049,Río Chico,Personas,51,3,2,9,7,18,0,12,0,0
+82007,Belgrano,EAP,195,13,11,91,4,19,2,47,7,1
+82007,Belgrano,Personas,209,13,11,100,4,22,2,49,7,1
+82014,Caseros,EAP,220,21,13,71,11,47,3,44,5,5
+82014,Caseros,Personas,220,21,13,71,11,47,3,44,5,5
+82021,Castellanos,EAP,258,48,4,85,2,61,3,49,2,4
+82021,Castellanos,Personas,261,48,4,88,2,61,3,49,2,4
+82028,Constitución,EAP,254,16,2,110,11,41,3,66,4,1
+82028,Constitución,Personas,256,16,2,110,11,41,3,68,4,1
+82035,Garay,EAP,176,20,0,23,1,80,1,51,0,0
+82035,Garay,Personas,180,20,0,23,1,84,1,51,0,0
+82042,General López,EAP,424,53,10,165,28,73,4,74,11,6
+82042,General López,Personas,428,55,10,166,28,73,4,75,11,6
+82049,General Obligado,EAP,495,71,17,92,7,172,12,119,3,2
+82049,General Obligado,Personas,508,72,17,97,7,177,12,121,3,2
+82056,Iriondo,EAP,269,26,8,105,17,49,4,53,7,0
+82056,Iriondo,Personas,275,26,8,107,17,52,4,54,7,0
+82063,La Capital,EAP,106,8,3,29,2,22,4,36,2,0
+82063,La Capital,Personas,109,8,3,32,2,22,4,36,2,0
+82070,Las Colonias,EAP,280,33,3,86,7,66,4,73,1,7
+82070,Las Colonias,Personas,294,34,3,89,7,74,4,75,1,7
+82077,9 de julio,EAP,267,48,7,65,2,82,4,53,5,1
+82077,9 de julio,Personas,269,48,7,66,2,82,4,54,5,1
+82084,Rosario,EAP,130,8,4,47,4,17,5,40,1,4
+82084,Rosario,Personas,130,8,4,47,4,17,5,40,1,4
+82091,San Cristóbal,EAP,287,28,7,97,2,76,2,71,1,3
+82091,San Cristóbal,Personas,290,29,7,99,2,76,2,71,1,3
+82098,San Javier,EAP,304,25,0,159,1,63,4,48,2,2
+82098,San Javier,Personas,304,25,0,159,1,63,4,48,2,2
+82105,San Jerónimo,EAP,168,17,4,60,4,30,0,47,5,1
+82105,San Jerónimo,Personas,174,17,4,64,4,31,0,47,5,2
+82112,San Justo,EAP,159,19,1,39,3,32,2,54,2,7
+82112,San Justo,Personas,159,19,1,39,3,32,2,54,2,7
+82119,San Lorenzo,EAP,136,15,1,32,5,25,3,48,5,2
+82119,San Lorenzo,Personas,141,16,1,32,5,26,3,49,5,4
+82126,San Martín,EAP,254,17,5,99,6,45,3,79,0,0
+82126,San Martín,Personas,267,19,5,105,6,47,3,82,0,0
+82133,Vera,EAP,242,23,3,58,8,69,8,67,5,1
+82133,Vera,Personas,245,23,3,58,8,72,8,67,5,1
+86007,Aguirre,EAP,19,3,0,4,0,7,1,4,0,0
+86007,Aguirre,Personas,19,3,0,4,0,7,1,4,0,0
+86014,Alberdi,EAP,87,5,2,13,18,9,9,5,0,26
+86014,Alberdi,Personas,87,5,2,13,18,9,9,5,0,26
+86021,Atamisqui,EAP,49,3,12,8,1,8,4,11,1,1
+86021,Atamisqui,Personas,49,3,12,8,1,8,4,11,1,1
+86028,Avellaneda,EAP,199,9,102,56,0,13,4,12,0,3
+86028,Avellaneda,Personas,199,9,102,56,0,13,4,12,0,3
+86035,Banda,EAP,49,9,4,11,1,11,1,10,1,1
+86035,Banda,Personas,49,9,4,11,1,11,1,10,1,1
+86042,Belgrano,EAP,24,3,4,12,0,3,0,2,0,0
+86042,Belgrano,Personas,24,3,4,12,0,3,0,2,0,0
+86049,Capital,EAP,103,10,3,9,2,21,7,47,0,4
+86049,Capital,Personas,104,10,3,9,2,21,7,47,0,5
+86063,Choya,EAP,57,7,0,2,0,34,5,7,1,1
+86063,Choya,Personas,57,7,0,2,0,34,5,7,1,1
+86056,Copo,EAP,161,3,8,67,2,12,5,54,0,10
+86056,Copo,Personas,163,3,8,67,2,13,5,55,0,10
+86070,Figueroa,EAP,75,8,2,11,0,27,9,14,1,3
+86070,Figueroa,Personas,75,8,2,11,0,27,9,14,1,3
+86077,General Taboada,EAP,161,8,13,50,9,22,4,54,0,1
+86077,General Taboada,Personas,170,8,13,54,9,23,4,58,0,1
+86084,Guasayán,EAP,22,1,0,6,2,5,1,6,0,1
+86084,Guasayán,Personas,23,1,0,7,2,5,1,6,0,1
+86091,Jiménez,EAP,23,1,2,3,3,5,2,3,0,4
+86091,Jiménez,Personas,23,1,2,3,3,5,2,3,0,4
+86098,Juan Felipe Ibarra,EAP,52,8,5,13,0,10,3,10,1,2
+86098,Juan Felipe Ibarra,Personas,52,8,5,13,0,10,3,10,1,2
+86105,Loreto,EAP,90,2,51,6,0,10,10,10,0,1
+86105,Loreto,Personas,90,2,51,6,0,10,10,10,0,1
+86112,Mitre,EAP,36,15,0,9,0,7,0,5,0,0
+86112,Mitre,Personas,36,15,0,9,0,7,0,5,0,0
+86119,Moreno,EAP,98,9,4,47,4,15,3,15,1,0
+86119,Moreno,Personas,98,9,4,47,4,15,3,15,1,0
+86126,Ojo de Agua,EAP,124,8,25,27,0,17,2,43,1,1
+86126,Ojo de Agua,Personas,124,8,25,27,0,17,2,43,1,1
+86133,Pellegrini,EAP,295,10,87,69,3,40,18,65,2,1
+86133,Pellegrini,Personas,295,10,87,69,3,40,18,65,2,1
+86140,Quebrachos,EAP,106,10,64,7,1,10,3,8,2,1
+86140,Quebrachos,Personas,107,10,65,7,1,10,3,8,2,1
+86147,Río Hondo,EAP,126,9,6,34,1,23,6,45,0,2
+86147,Río Hondo,Personas,126,9,6,34,1,23,6,45,0,2
+86154,Rivadavia,EAP,17,1,1,7,1,4,1,2,0,0
+86154,Rivadavia,Personas,17,1,1,7,1,4,1,2,0,0
+86161,Robles,EAP,58,14,2,14,4,10,2,7,1,4
+86161,Robles,Personas,58,14,2,14,4,10,2,7,1,4
+86168,Salavina,EAP,255,4,171,37,0,11,5,16,0,11
+86168,Salavina,Personas,256,4,171,38,0,11,5,16,0,11
+86175,San Martín,EAP,47,4,22,3,0,7,5,5,1,0
+86175,San Martín,Personas,47,4,22,3,0,7,5,5,1,0
+86182,Sarmiento,EAP,1,1,0,0,0,0,0,0,0,0
+86182,Sarmiento,Personas,1,1,0,0,0,0,0,0,0,0
+86189,Silípica,EAP,45,6,10,10,0,5,1,13,0,0
+86189,Silípica,Personas,45,6,10,10,0,5,1,13,0,0
+94008,Río Grande,EAP,34,2,0,2,0,18,1,7,4,0
+94008,Río Grande,Personas,34,2,0,2,0,18,1,7,4,0
+94011,Tolhuin,EAP,12,2,0,0,0,3,0,1,6,0
+94011,Tolhuin,Personas,12,2,0,0,0,3,0,1,6,0
+94015,Ushuaia,EAP,2,0,0,0,0,0,0,1,1,0
+94015,Ushuaia,Personas,2,0,0,0,0,0,0,1,1,0
+90007,Burruyacú,EAP,55,5,0,15,2,11,1,17,4,0
+90007,Burruyacú,Personas,55,5,0,15,2,11,1,17,4,0
+90084,Capital,EAP,0,0,0,0,0,0,0,0,0,0
+90084,Capital,Personas,0,0,0,0,0,0,0,0,0,0
+90021,Chicligasta,EAP,41,2,4,6,0,12,0,15,0,2
+90021,Chicligasta,Personas,41,2,4,6,0,12,0,15,0,2
+90014,Cruz Alta,EAP,40,2,2,9,0,18,1,7,0,1
+90014,Cruz Alta,Personas,40,2,2,9,0,18,1,7,0,1
+90028,Famaillá,EAP,72,18,8,16,0,11,7,12,0,0
+90028,Famaillá,Personas,72,18,8,16,0,11,7,12,0,0
+90035,Graneros,EAP,38,3,4,10,1,11,0,9,0,0
+90035,Graneros,Personas,40,3,6,10,1,11,0,9,0,0
+90042,Juan Bautista Alberdi,EAP,44,2,6,4,0,18,2,11,0,1
+90042,Juan Bautista Alberdi,Personas,44,2,6,4,0,18,2,11,0,1
+90049,La Cocha,EAP,74,10,23,10,0,16,2,13,0,0
+90049,La Cocha,Personas,75,10,23,10,0,17,2,13,0,0
+90056,Leales,EAP,132,16,8,30,3,47,7,19,0,2
+90056,Leales,Personas,132,16,8,30,3,47,7,19,0,2
+90063,Lules,EAP,10,0,1,2,0,4,0,2,0,1
+90063,Lules,Personas,10,0,1,2,0,4,0,2,0,1
+90070,Monteros,EAP,66,7,18,6,0,19,5,9,2,0
+90070,Monteros,Personas,66,7,18,6,0,19,5,9,2,0
+90077,Río Chico,EAP,15,0,0,6,0,4,0,5,0,0
+90077,Río Chico,Personas,15,0,0,6,0,4,0,5,0,0
+90091,Simoca,EAP,137,4,18,14,0,65,13,21,2,0
+90091,Simoca,Personas,137,4,18,14,0,65,13,21,2,0
+90098,Tafí del Valle,EAP,185,22,1,29,0,69,5,58,0,1
+90098,Tafí del Valle,Personas,196,22,1,39,0,70,5,58,0,1
+90105,Tafí Viejo,EAP,21,0,2,7,2,3,0,7,0,0
+90105,Tafí Viejo,Personas,23,0,2,7,2,5,0,7,0,0
+90112,Trancas,EAP,41,7,0,6,2,13,2,8,2,1
+90112,Trancas,Personas,43,7,0,6,2,15,2,8,2,1
+90119,Yerba Buena,EAP,1,0,0,0,0,0,0,1,0,0
+90119,Yerba Buena,Personas,1,0,0,0,0,0,0,1,0,0
